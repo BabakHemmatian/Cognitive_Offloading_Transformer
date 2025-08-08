@@ -32,7 +32,7 @@ precision: 0.68, recall: 0.81, f1: 0.74
 First ensure that the required packages listed in ```requirements.txt``` are installed and, if included as part of a virtual environment, make sure that the enviroment is activated.
 
 ### Training and Model Evaluation
-You can use the ```train_test_classifier.py``` script to train new models on the provided data or evaluate the existing models. Follow the detailed comments within the script for its proper use.
+You can use the ```train_test_classifier.py``` script to train new models on the provided data or evaluate pretrained models with different inference parameters. Follow the detailed comments within the script for its proper use.
 
 ### Inference
 The final trained model can be found [here](https://drive.google.com/drive/u/0/folders/11ljkn5eeM3fBzwiAS1IDLkPUmUp40oXx). Copy the entire folder into the path where this repository is located. Then run the code below in the command line where the ```-f``` argument shows the path to your input file. This file should be in ```.txt``` or ```.csv``` format, with each text for which you would like to get labels placed on a separate line. If using the ```.csv``` format, place the texts in the first column. The results will be saved to a file titled ```predicted_labels.csv```.
