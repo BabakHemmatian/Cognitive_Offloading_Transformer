@@ -6,6 +6,7 @@ This repository contains the training and evaluation data, as well as test resul
 
 ## Data
 The data is provided by researchers at Forward College, Berlin, Germany. For more information about the theories, procedures and findings, please reach out to [Liudmila Piatnitckaia](mailto:liudmila.piatnitckaia@forward-college.eu).
+
 The training, evaluation and test data splits, including the original texts and the associated labels, can be found in the ```train_test_classifier_data_split``` folder. 
 
 ## Performance on a held-out 10% test set
@@ -16,8 +17,10 @@ precision: 0.80, recall: 0.81, f1: 0.80
 ### Per Class: 
 No offloading: 
 precision: 0.90, recall: 0.86, f1: 0.88
+
 Light offloading: 
 precision: 0.83, 'recall': 0.75, f1: 0.78
+
 Heavy offloading:
 precision: 0.68, recall: 0.81, f1: 0.74
 
