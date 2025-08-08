@@ -11,6 +11,8 @@ The training, evaluation and test data splits, including the original texts and 
 
 ## Performance on a held-out 10% test set
 
+More information about the test parameters can be found in ```test_results_roberta-base_final.txt```. The test set predicted and actual labels are located in ```test_results_roberta-base_final.csv```.
+
 ### Macro Average:
 precision: 0.80, recall: 0.81, f1: 0.80
 
