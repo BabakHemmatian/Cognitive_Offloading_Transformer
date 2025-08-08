@@ -29,7 +29,7 @@ precision: 0.68, recall: 0.81, f1: 0.74
 ## Usage
 
 ### Requirements
-First ensure that the required packages listed in the requirements file are installed and, if included as part of a virtual environment, make sure that the enviroment is activated.
+First ensure that the required packages listed in ```requirements.txt``` are installed and, if included as part of a virtual environment, make sure that the enviroment is activated.
 
 ### Training and Model Evaluation
 You can use the ```train_test_classifier.py``` script to train new models on the provided data or evaluate the existing models. Follow the detailed comments within the script for its proper use.
