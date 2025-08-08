@@ -99,7 +99,7 @@ print(Counter(final_labels)) # print the count of each label in the dataset
 ## split the dataset into training/validation/test sets if no prior split is found on file, load the prior split otherwise
 
 # the list of files needed for recreating a previous training/validation/test split (retained for reproducibility)
-split_data_path = model_path.replace("offloading_{}_{}".format(model_name,trial),"train_relevance_data_split")
+split_data_path = model_path.replace("offloading_{}_{}".format(model_name,trial),"train_test_classifier_data_split")
 split_data = ["training","validation","test"]
 file_list = []
 for cat in split_data:
