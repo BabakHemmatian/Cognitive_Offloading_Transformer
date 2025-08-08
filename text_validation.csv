@@ -1,0 +1,1128 @@
+who came up with The Biomedical Model
+"provide a quality assessment table for my systematic literature review using these 10 studies, and briefly explain why youve scored them that way: 1. DOI: 10.1111/joca.12265 Assessing the effectiveness of financial coaching: Evidence from the Boston Youth Credit Building Initiative. 2. https://doi.org/10.1080/01443410.2024.2423673 Empowering high-school students from low-income families in career decision self-efficacy: a quasi-experimental study. 5. DOI: 10.1002/joec.12049 influence of generational status and financial stress on academic and career self-efficacy. 3. https://doi.org/10.1177/00131245221092744. Self-Efficacy, Subjective Norms, Self-Regulated Learning: An Application of the Theory of Planned Behavior With GEAR UP Students. 4. The Association of Financial Socialization with Financial Self-Efficacy and Autonomy: A Study of Young Students in India. https://link.springer.com/article/10.1007/s10834-021-09797-x. 5. DOI: 10.1111/joca.12511. The role of learning motivation on financial knowledge among Vietnamese college students. 6. Undergraduate Financial Stress, Financial Self-Efficacy, and Major Undergraduate Financial Stress, Financial Self-Efficacy, and Major Choice: A Multi-Institutional Study Choice: A Multi-Institutional Study. https://doi.org/10.4148/ 1944-9771.1129. 7. https://doi.org/10.1002/jad.12401 A longitudinal study of prosocial behaviors predicting later academic performance in US Latine early adolescents 8. Kristensen, S.M., Larsen, T.M.B., Urke, H.B. et al. Academic Stress, Academic Self-efficacy, and Psychological Distress: A Moderated Mediation of Within-person Effects. J Youth Adolescence 52, 1512–1529 (2023). https://doi.org/10.1007/s10964-023-01770-1. 9. Koh, J., Farruggia, S.P., Back, L.T. et al. Self-efficacy and academic success among diverse first-generation college students: The mediating role of self-regulation. Soc Psychol Educ 25, 1071–1092 (2022). https://doi.org/10.1007/s11218-022-09713-7. 10. https://www.proquest.com/docview/2861553118 Navigating the Academy and Beyond: An Examination of Major and Career Self-efficacy of Latin* First-Generation College Students"
+"hello i would like you to take the following advice and use it to revise the systematic literature review. it should still be about 2000 words after revision. Your systematic literature review (SLR) is well-structured, comprehensive, and methodologically rigorous. However, there are several areas where it could be improved to align more closely with best practices for systematic reviews, as outlined by Siddaway, Wood, and Hedges (2019). Below are key areas for improvement:
+
+1. Introduction: Clarify the Research Gap and Justify the Review
+Issue: While you state that a systematic synthesis of sleep deprivation’s effects on risk-taking and moral decision-making is lacking, this claim is not strongly supported with references. You need to explicitly demonstrate the gap by summarizing prior narrative reviews or scattered findings.
+
+Suggestion: Cite previous literature reviews, if available, and explain why a systematic review is necessary.
+
+Example Revision:
+""While individual studies have examined the impact of sleep deprivation on cognitive functions such as risk-taking and moral decision-making (e.g., Killgore, 2015; Wang et al., 2022), a comprehensive systematic synthesis of these effects remains absent. Previous reviews have largely focused on broader cognitive impairments (e.g., Brunet et al., 2020), necessitating a focused evaluation of decision-making processes under sleep deprivation conditions.""
+
+Issue: The research question is implied but not explicitly stated.
+
+Suggestion: Clearly articulate the research question using the PICOS framework (Population, Intervention, Comparison, Outcomes, Study design), ensuring transparency.
+
+Example Revision:
+""This review systematically examines the empirical evidence on how sleep deprivation influences risk-taking behavior and moral decision-making in adults. Specifically, it seeks to answer: (1) To what extent does sleep deprivation affect risk-taking behavior? (2) How does sleep deprivation influence moral decision-making, and are these effects consistent across different populations and methodologies?""
+
+2. Methodology: Improve Transparency and Reproducibility
+Issue: The selection of databases (PubMed, PsycInfo, and ResearchGate) lacks justification.
+
+Suggestion: Explain why these databases were chosen and consider replacing ResearchGate with Scopus or Web of Science for better quality control.
+
+Issue: Boolean search terms could be more precise.
+
+Suggestion: Indicate whether Medical Subject Headings (MeSH) terms or database-specific filters were used.
+
+Issue: The inclusion/exclusion criteria lack detail on methodological rigor.
+
+Suggestion: Specify whether studies needed a minimum sample size, a control group, or specific experimental designs.
+
+Issue: Quality assessment lacks citation of an established tool.
+
+Suggestion: Use a validated tool (e.g., the Newcastle-Ottawa Scale or Cochrane’s Risk of Bias Tool) instead of an arbitrary point system.
+
+3. Results: Structure for Clarity and Depth
+Issue: The results section presents findings study by study rather than synthesizing them thematically.
+Suggestion: Instead of summarizing individual studies sequentially, organize findings around key themes (e.g., ""Cognitive Mechanisms of Risk-Taking under Sleep Deprivation,"" ""Neural Correlates of Moral Decision-Making under Sleep Loss"").
+Example Revision:
+""Across multiple studies, sleep deprivation was associated with increased risk-taking, particularly in gambling and financial decision-making tasks (Wei et al., 2025; Killgore, 2015). These effects were linked to decreased prefrontal cortex activity and heightened amygdala responses, impairing impulse control (Lei et al., 2017). However, the impact on moral decision-making was more inconsistent, with some studies showing deficits in ethical reasoning (Mazandarani & Jalilian, 2023), while others found preserved moral judgments despite slower cognitive processing (Killgore et al., 2007).""
+4. Discussion: Strengthen Theoretical and Practical Implications
+Issue: Theoretical interpretations are somewhat superficial.
+
+Suggestion: Provide deeper engagement with models such as the Somatic Marker Hypothesis (Damasio, 1994) or Self-Regulatory Depletion Theory (Baumeister et al., 2007).
+
+Issue: The section on practical implications lacks specificity.
+
+Suggestion: Discuss implications for specific fields (e.g., aviation, healthcare, law enforcement) and possible mitigation strategies (e.g., strategic naps, pharmacological interventions).
+
+Issue: The future research section is too broad.
+
+Suggestion: Suggest specific methodologies (e.g., longitudinal studies, real-world observational designs) and population differences (e.g., age, profession, cultural factors).
+
+5. Conclusion: Increase Precision
+Issue: The conclusion is somewhat repetitive.
+
+Suggestion: Emphasize the key contribution of the review in a concise manner.
+
+Example Revision:
+""This systematic review highlights the robust association between sleep deprivation and increased risk-taking behavior, mediated by prefrontal dysfunction and amygdala hyperactivity. However, the effects on moral decision-making remain inconclusive, suggesting a need for further research using standardized moral reasoning paradigms. These findings underscore the critical importance of sleep in high-stakes decision-making environments and emphasize the need for workplace interventions to mitigate cognitive impairments due to sleep loss."" The Impact of Sleep Deprivation on Risk-Taking and Moral Decision-Making in Adults
+Introduction
+Sleep deprivation is a widely researched psychological and physiological phenomenon that occurs when an individual experiences insufficient sleep, leading to cognitive and emotional impairments (Durmer & Dinges, 2005). Research in cognitive psychology and neuroscience has demonstrated that sleep is essential for maintaining executive function, impulse control, and ethical reasoning (Stickgold & Walker, 2007). Given the increasing prevalence of sleep deprivation due to modern lifestyles, it is crucial to understand its impact on key cognitive functions, particularly those associated with decision-making.
+Decision-making often involves evaluating risks and moral dilemmas, both of which rely on higher-order cognitive processing. Sleep plays a pivotal role in regulating these processes by maintaining the balance between intuitive and analytical decision-making systems (Evans & Stanovich, 2013). The dual-process theory suggests that individuals rely on both System 1 (intuitive) and System 2 (analytical) processing, with sleep deprivation weakening System 2, leading to increased reliance on impulsive, emotion-driven decision-making (Whitney et al., 2015). This impairment may result in heightened risk-taking behaviors and compromised moral reasoning, posing significant implications for various professional and social contexts.
+While previous studies have explored the consequences of sleep deprivation on cognitive performance, a systematic synthesis of its effects on risk-taking behavior and moral decision-making in adults is lacking. This review aims to fill this gap by systematically evaluating empirical research on the topic. By doing so, it seeks to determine the extent to which sleep loss influences these cognitive functions and whether these effects are consistent across different populations.
+Method
+This systematic literature review was conducted following the PRISMA 2020 guidelines (Page et al., 2021), ensuring a structured and replicable approach. A comprehensive search was performed across three major academic databases: PubMed, PsycInfo, and ResearchGate. These databases were selected due to their extensive coverage of peer-reviewed research in psychology, neuroscience, and behavioral sciences. The objective was to identify studies examining the effects of sleep deprivation on risk-taking behavior and moral decision-making in adults.
+Search Strategy
+A predefined search strategy was implemented using Boolean operators to refine results effectively. The search terms included:
+(""sleep deprivation"" OR ""sleep restriction"" OR ""insufficient sleep"") AND (""risk-taking"" OR ""decision-making"" OR ""moral judgment"" OR ""impulsivity"")
+Filters were applied to restrict the search to peer-reviewed empirical studies published between 2009 and 2024 in English-language journals. Studies focusing on children, general sleep patterns without a deprivation component, or unrelated cognitive domains were excluded.
+Study Selection Process
+The search initially yielded 162 studies. Following the removal of 42 duplicates, 120 studies remained for screening. Title and abstract screening excluded 62 studies that did not meet the inclusion criteria. The remaining 58 studies underwent full-text review, where 48 studies were excluded due to methodological limitations or lack of relevance. Ultimately, 10 studies met all criteria and were included in the final review.
+A PRISMA flow diagram (Appendix B) illustrates the study selection process, detailing the number of records identified, screened, excluded, and included in the review.
+Inclusion and Exclusion Criteria
+The eligibility criteria for study selection are outlined in Table 1.
+Table 1: Inclusion and Exclusion Criteria
+Criterion
+Inclusion Criteria
+Exclusion Criteria
+Population
+Adults (18+ years old) in experimental, observational, or longitudinal studies
+Studies focusing on children or adolescents
+Exposure
+Studies explicitly manipulating or measuring sleep deprivation (total or partial)
+Studies examining general sleep patterns or insomnia without direct sleep deprivation exposure
+Outcomes
+Studies assessing risk-taking behavior and/or moral decision-making
+Studies not directly measuring risk-taking or moral decision-making
+Study Design
+Empirical studies (experimental, longitudinal, or cross-sectional) with quantitative or qualitative data
+Non-empirical studies, theoretical papers, opinion pieces
+Publication Type
+Peer-reviewed journal articles and systematic reviews
+Unpublished dissertations, conference abstracts, and grey literature unless they provide substantial empirical data
+
+Data Extraction and Quality Assessment
+Each study was systematically assessed based on four key dimensions:
+Study Design & Methodology (0-3 points): Controlled experiments received higher scores than observational or self-report studies.
+Sample Size & Representativeness (0-2 points): Larger and more diverse samples were rated higher.
+Statistical Rigor (0-2 points): Effect sizes, significance testing, and robust methodology were considered.
+Relevance to Review Question (0-3 points): Studies directly addressing both sleep deprivation and risk-taking/moral decision-making scored higher.
+Final Study Rating:
+High-quality: 7-10 points
+Moderate-quality: 4-6 points
+Low-quality: 0-3 points (excluded from the review)
+Results
+The final selection of 10 studies provided insight into the relationship between sleep deprivation, risk-taking behavior, and moral decision-making. This section presents a synthesis of the key findings from these studies, highlighting trends, similarities, and discrepancies in the results.
+Effects of Sleep Deprivation on Risk-Taking Behavior
+Several studies demonstrated a significant relationship between sleep deprivation and increased risk-taking tendencies. Wei et al. (2025) found that sleep-deprived individuals exhibited a heightened propensity for risk-taking, particularly in tasks requiring probabilistic reasoning and long-term reward evaluation. Similarly, Killgore (2015) reported that participants undergoing sleep deprivation made riskier decisions in gambling paradigms compared to their well-rested counterparts.
+The neurobiological mechanisms underlying this effect were further explored by Lei et al. (2017), who found that sleep-deprived individuals showed reduced prefrontal cortex activity and heightened amygdala responses during high-risk decision-making tasks. These findings support the hypothesis that sleep deprivation impairs executive control while enhancing emotional reactivity, leading to impulsive risk-taking behavior.
+Effects of Sleep Deprivation on Moral Decision-Making
+Research on the effects of sleep deprivation on moral decision-making produced mixed results. Mazandarani & Jalilian (2023) found that individuals who experienced partial sleep deprivation displayed deficits in moral reasoning, particularly in complex ethical dilemmas requiring cognitive flexibility. Their findings aligned with those of Wang et al. (2022), who reported that participants with reduced sleep were more likely to endorse self-serving moral choices, potentially due to impaired higher-order cognitive processing.
+However, some studies suggested that moral decision-making may be more resilient to sleep deprivation than risk-taking behavior. Killgore et al. (2007) examined moral judgment after 75 hours of sleep deprivation and found that although participants demonstrated slower response times, their moral judgments remained largely intact. These findings suggest that while sleep deprivation can impact the cognitive efficiency of moral decision-making, it may not necessarily lead to significant changes in moral choices themselves.
+Summary of Findings
+The overall synthesis of the reviewed studies suggests that sleep deprivation significantly increases risk-taking behavior, primarily due to impaired executive function and heightened emotional reactivity. The effects on moral decision-making, however, appear to be more variable, potentially due to differences in task complexity and individual susceptibility to sleep loss.
+The next section will discuss these findings in relation to theoretical models, practical implications, and limitations of the existing research.
+Discussion
+The findings from this systematic review demonstrate a clear relationship between sleep deprivation, risk-taking behavior, and moral decision-making. The reviewed studies consistently suggest that sleep deprivation significantly increases risk-taking tendencies, primarily due to impairments in executive functioning and heightened emotional reactivity (Wei et al., 2025; Killgore, 2015). However, the effects on moral decision-making appear to be more complex, with some studies indicating minimal changes in moral judgments despite slowed cognitive processing (Killgore et al., 2007). This section interprets these findings in relation to existing psychological theories, considers methodological strengths and limitations, and highlights areas for future research.
+Interpretation of Findings
+The observed increase in risk-taking behavior following sleep deprivation aligns with neurocognitive theories emphasizing the role of the prefrontal cortex and amygdala in decision-making. Sleep deprivation is known to impair prefrontal cortex functioning, which is critical for impulse control, long-term planning, and risk evaluation (Lei et al., 2017). Simultaneously, it enhances activity in the amygdala, an area associated with emotional responses, leading to heightened impulsivity and reduced consideration of potential negative outcomes (Yoo et al., 2007). These neurobiological mechanisms provide a strong explanatory framework for why sleep-deprived individuals exhibit increased engagement in risk-taking behavior, particularly in high-stakes scenarios.
+The findings related to moral decision-making, however, present a more nuanced picture. While Mazandarani & Jalilian (2023) found that partial sleep deprivation weakened moral reasoning, Killgore et al. (2007) observed that moral decisions themselves remained largely intact, albeit with slower response times. This discrepancy suggests that while cognitive efficiency in processing moral dilemmas is reduced, the underlying moral judgments may not be fundamentally altered. One possible explanation is that moral decision-making may rely more on deeply ingrained ethical frameworks rather than moment-to-moment cognitive control. Additionally, moral decision-making tasks often involve less immediate emotional arousal than risk-taking scenarios, potentially making them more resistant to the effects of sleep deprivation.
+Strengths and Limitations of Reviewed Studies
+A key strength of the reviewed studies is their methodological diversity, incorporating experimental, observational, and neuroimaging approaches to examine the cognitive effects of sleep deprivation. Studies employing fMRI and EEG analyses (e.g., Lei et al., 2017) provide robust evidence linking sleep deprivation to changes in neural activity, offering objective insights into the cognitive mechanisms underlying risk-taking behavior. Additionally, controlled experimental designs with total and partial sleep deprivation paradigms strengthen the causal interpretations of the observed effects (Killgore, 2015).
+However, some methodological limitations must be acknowledged. Several studies relied on self-reported sleep deprivation, which may introduce inaccuracies in estimating actual sleep loss (Brunet et al., 2020). Sample sizes varied across studies, with some employing small, non-representative samples, limiting generalizability to broader populations (Leenaars et al., 2021). Furthermore, variations in how risk-taking and moral decision-making were operationalized make direct comparisons across studies challenging. Future research should aim to use standardized assessment tools and larger, more diverse samples to enhance the robustness of findings.
+Future Research Directions
+Given the observed effects of sleep deprivation on risk-taking but the mixed effects on moral decision-making, several areas warrant further exploration. Future studies should examine the long-term effects of sleep deprivation, as most reviewed research assessed short-term impacts, leaving uncertainty about whether chronic sleep deprivation leads to more profound cognitive changes. Additionally, individual differences in susceptibility to sleep loss should be investigated, as factors such as age, personality traits, and baseline cognitive abilities may moderate these effects. Another critical direction is the assessment of real-world implications, as the majority of studies were conducted in controlled laboratory settings, limiting the ability to generalize findings to professional and everyday decision-making scenarios in fields like healthcare, finance, and law enforcement. Lastly, researchers should explore potential interventions, such as caffeine, mindfulness training, or strategic napping, to determine whether these strategies can mitigate the cognitive impairments associated with sleep deprivation.
+
+Conclusion
+This systematic review highlights the significant impact of sleep deprivation on risk-taking behavior and its more nuanced effects on moral decision-making. The evidence strongly suggests that sleep deprivation increases impulsivity and risk-seeking tendencies, largely due to prefrontal cortex dysfunction and amygdala hyperactivity. While some studies indicate that moral decision-making is affected, others suggest that individuals may still adhere to their moral frameworks, albeit with slower cognitive processing.
+The findings have important implications for occupational settings, public safety, and mental health, as sleep-deprived individuals may be more prone to engaging in risky behavior with potential real-world consequences. However, the variability in moral decision-making outcomes suggests that further research is needed to determine the precise cognitive mechanisms at play and whether interventions can mitigate these effects.
+In conclusion, this review underscores the necessity of adequate sleep for maintaining cognitive control, ethical reasoning, and risk assessment. As modern lifestyles continue to disrupt sleep patterns, understanding the implications of sleep deprivation on decision-making remains an essential area of psychological research with broad societal relevance."
+"Give me 3 options for ways i could structure an essay on this topic:“Cognitive Behavioural Therapy is the ‘gold standard’ in the treatment of anxiety disorders”. Critically evaluate this claim, with consideration to other psychological interventions."
+"based on this website, will it be possilbe for me to study a masters in psychology in the netherlands with a degree fromForward College, accredited by theUniversityof london: https://www.nuffic.nl/en/education-systems/united-kingdom-england-wales-and-northern-ireland/higher-education"
+"based on this quiz that i am providing, can you make structured notes that contain the information needed for all these questions: 
+ 
+* Indicates required question
+Email
+*
+Record ann-kristin.ritter@forward-college.eu as the email to be included with my response
+Exercice 1 - Complète les phrases avec “Je suis” ou “J’ai” : 
+Complete the sentence with I am or I have.
+ __________ infirmière.
+*
+Je suis
+J'ai
+__________ 25 ans.
+*
+Je suis
+J'ai
+__________ espagnole.
+*
+Je suis
+J'ai
+__________ une pomme.
+*
+Je suis
+J'ai
+Exercice 2 - Choisis entre “Tu” et “Vous” : 
+Choose between ""Tu"" and ""Vous"".
+À un vendeur dans un magasin : ""Bonjour, _________ m'aider s'il vous plaît.""
+*
+pouvez-vous
+peux-tu
+À ta sœur : “ _________ avec moi ?”
+*
+Vous venez
+Tu viens
+À 2 petites filles : ""____________ bien ?""
+*
+Vous allez
+Tu vas
+À une dame de 90 ans : ""Je peux ___________ aider ?""
+*
+vous
+t'
+Exercice 3 - Ecris les adjectifs au féminin : 
+Write the adjectives at feminin form.
+Jardinier
+*
+Coiffeur
+*
+x
+Docteur
+*
+Exercice 4 - Met les phrases à la forme négative : 
+Write the sentence with negation. 
+Je suis généreuse.
+*
+J’ai 32 ans.
+*
+Je suis vendeur.
+*
+Exercice 5 - Ecris les heures en lettres ou en chiffre : 
+Write the hours in letters or numbers.
+7h18
+*
+trois heures moins le quart (de l'après-midi)
+*
+19h53
+*
+vingt heures dix
+*
+Exercice 6 - Complète avec les moment de la journée.
+Complete with moment of the day.
+Il est 15h. C’est __________.
+*
+le matin
+l'après-midi
+le soir
+la nuit
+Il est 21h. C’est  __________.
+*
+le matin
+l'après-midi
+le soir
+la nuit
+Il est 7h. C’est __________.
+*
+le matin
+l'après-midi
+le soir
+la nuit
+Il est minuit. C’est __________.
+*
+le matin
+l'après-midi
+le soir
+la nuit
+Exercice 7 - Complète avec les jours, dates, mois.
+Complete with days, dates, month.
+Hier, c’était mercredi. Aujourd’hui, nous sommes __________.
+*
+Nous sommes en mars. Le moi dernier c'était ____________.
+*
+Aujourd'hui on est le jour de Noël. Demain on sera le ___________________.
+*
+Exercice 8 - Complète avec les expressions de temps (en, au, en train de) : 
+Complete with time expression.
+Je suis __________ travailler.
+*
+Il y a du soleil _______ été.
+*
+Il y a des fleurs ______ printemps.
+*
+Nous partons __________ décembre.
+*
+Exercice 9 - Conjugue au présent : 
+Conjugate at present tense.
+Ils __________ (être) à l’heure pour le cours.
+*
+Nous __________ (avoir) une réunion demain matin.
+*
+Tu __________ (s'appeler) comment ?
+*
+Ils __________ (habiter) en Espagne.
+*"
+"‘Following Nietzsche’s line of thought, we are compelled to ask the following questions: Is not the man who is completely satisfied by nothing more than universal and equal recognition less than a full human being, indeed, an object of contempt, a “last man” with neither striving nor aspiration? Is there not a side of the human personality that deliberately seeks out struggle, danger, risk, and daring, and will this side not remain unfulfilled by the “peace and prosperity” of contemporary liberal democracy? Does not the satisfaction of certain human beings depend on recognition that is inherently unequal? Indeed, does not the desire for unequal recognition constitute the basis of a liveable life, not just for bygone aristocratic societies, but also in modern liberal democracies? Will not their future survival depend, to some extent, on the degree to which their citizens seek to be recognized not just as equal, but as superior to others? And might not the fear of becoming contemptible “last men”; not lead men to assert themselves in new and unforeseen ways, even to the point of becoming once again bestial “first men” engaged in bloody prestige battles, this time with modern weapons?’
+
+What are the implications of these thoughts for the idea of democracy and its central notion of
+equality?"
+"as a foreign policy analysis expert, critically explain and analyse the main thesis in a discursive way following the author's main train of thought, in detail answer in chat:"
+"as a democracy and democratisation expert, critically explain and analyse the main thesis of CHAPTER 5 in a discursive way following the author's main train of thought, in detail. answer in chat :"
+"as a comparative politics expert, critically explain and analyse the main thesis in a discursive way following the author's main train of thought, in detail. answer in chat :"
+"as a foreign policy analysis expert, critically explain and analyse the main thesis in a discursive way following the author's main train of thought, in detail. answer in chat :"
+how does media contribute to decline of political parties?
+"As a comparative politics expert, can you summarize each authors arguments and highlght the most relevants points for each one?"
+"I have an exam on chapter 7, 8 and 9 from this source. Bullet point all the key information and learning outcomes from each chapter- IN DETAIL- NOT A SUMMARY- in a way that i can get an A in my exam."
+"I need super super detailed notes on: Price Discrimination  chapter 15 from the subject guide, and pls don't skip over ANYTHING- I need details, examples, both graphical and mathematical details that i need to know for my exam on price discrimination"
+"this is my research essay, what are potential questions I should prepare for my viva?: What are the strengths and weakness of your study?
+
+What sense do you have of research being a somewhat untidy, or iterative and constantly shifting process?
+
+How confident are you in your findings and conclusions?
+
+What the implications of your findings?
+
+How has the context changed since you conducted your research?
+
+Where do your findings sit in the field in general?
+
+How do you see this area developing over the next 5-10 years?
+
+Where does your work fit within this?
+
+To whom is your work relevant?
+
+What haven’t you looked at, and why not?
+
+What, if any, of your findings are generalisable?
+
+How would you like to follow this project up with further research?
+
+What would you publish from this research, and in which journals?"
+"Dear all, thank you for participating in module 3: Community Outreach.
+Please find here the questions to answer for your performance grade, with grading criteria
+details below.
+1. What was useful about this module and why? This module was extremely useful because it enabled me to gain awareness of what's happening within the community, aiding to the best of my ability coming from a priviledged perspective. This module was useful because it enabled me to be aware of my stereotypical thinking of the refugees in our society, and hearing Safi's perspective of his experience as a refugee with a strong educational background made me be grateful for peace, and made me appreciate my background. This module was also useful because it gave me the opportunity to interact with both locals and refugees in Paris, which not only gave me the opportunity to listen to their stories but also practice empathy. 
+2. Describe a specific experience from within the module that felt challenging: I think a difficult part of this module was the language barrier that i faced during the food distribution. I was really excited to interact with the homeless people and just be there in the moment with them and listen to their stories, but due to the fact that I do not speak fluent french, it was quite difficult communicating. Therefore, this part was really challeneging but because I went with a group of french speakers, one of them was able to translate everything that they said, which was really helpful.   
+3. What will you do differently moving forward based on the experience you gained from: I will try my best to take time off to volunteer in paris to the best of my ability, and interact with more refugees around, as they are also human need kindness, just like everyone would.  
+ How do you think you could have an impact on those around you? through joining serve the city in their different activities such as the food distribution which I really enjoyed, as well as the language exchange which could help me imporve my french when interacting with the locals.  
+4. Social / Emotional skills develop with continuous and intentional effort. What other ways
+are you advancing your personal development relating specifically to the learning
+objectives of module three? Beyond this, I am advancing my personal development through constant journaling of my experiences, as well as deep meditation which helps me calm down especially in moments where  I feel overwhelmed by whats happening around the world, with the global instability especially in countries affected by war. 
+The length of the reflection should be up to one page.- 
+I need help structuring these answers in to one proper essay- make it one essay with each reponse in a paragraph"
+"can you rewrite this :Historical analogies always compare dissimilar phenomena. Some lead us astray. A narrowly confined repertoire increases the likelihood that comparisons limp. It is necessary to debate the interpretations of vehicles. Equations of vehicle and tenor usually require qualifications, spelling out not only the similarities but also the differences"
+"I need a strong thesis statement for this essay Is violence the opposite of politics? Discuss with reference to Arendt and Fanon. Thesis statement: Violence is an instrumental (serving a specific purpose, such as liberation) and constructive (transforming both the subjectivity of the colonized and the political order itself) force shapes historical, political, and psychological complexity of the past, present, and future ."
+"as a foreign policy analyis expert, explain in a discursive way following the author's main train and citing all the relevant theories/theorists:"
+"as a democracy and democratisation expert, explain this in detail. do it in a discoursive way following the authors train, clearly marking all the theories and theorists presented/cited:"
+"as a comparative politics expert, explain this in detail. do it in a discoursive way following the authors train, clearly marking all the theories and theorists presented/cited:"
+find me a better title for this column 5 News Stories from Around the World You Need to Know this week n
+"I am doing research on hwat social media platforms are most affected by cyberstalking. I need a table divided in to 4: what social media platforms are affected by ceberstalking (for under 18s), for over 18s (18-24) globally, and the 2 age groups in relation to cyber safety in a table"
+"as a democracy & democratisation expert, explain this in detail. do it in a discoursive way following the authors train, also it has to be extremely detailed : During the past 20 years, many countries that were formally non- democracies have become democracies. Essentially this chapter is an empirical discussion of how democratisation took place in the recent and more distant past. It suggests that the way in which societies became democratic (or not) depended significantly on the way in which they were organised prior to democratisation. This chapter should be read in conjunction with the next chapter, which examines some theories of why democratisation occurred.
+Huntington’s (1991) notion that there have been three waves of democratisation has generally been accepted as empirically useful. The first wave of countries essentially adopted democratic principles in the nineteenth century. They included:
+• the USA
+• Switzerland
+• France
+• Britain.
+The second wave consisted of countries that democratised after the defeat of fascism in 1945. The list includes:
+• (the then) West Germany • Italy
+• Japan
+• Austria.
+The third wave began in 1974 with the overthrow of the authoritarian government of Portugal. The military government in Greece also fell
+in 1974, and the following year the Spanish dictator Francisco Franco died. By 1980, these three southern European countries had all become democracies. During the next decade, the majority of Latin American countries changed from non-democracies to democracies. Many African countries also adopted democracy in the 1980s or early 1990s. From the late 1980s, the countries of eastern Europe also rejected communism and adopted democracy. The process culminated in mid-1991, when a failed coup attempt brought about the destruction of the Soviet Union as a unit. Many, though not all, of its component parts became democracies.
+It is, however, important to qualify the notion of ‘waves’ in one respect. In
+the past, in some regions of the world there were almost as many cases
+of democratic breakdown as of democratisation. To adapt Huntington’s phraseology, waves sometimes pulled away from the shore as well as
+moving towards it. Latin America has suffered several waves of democratic breakdown, the most important of which took place in the 1930s, 1960s and early 1970s. In continental Europe, many parliamentary systems were set up at the end of the First World War and the majority of these broke down in the 1920s or early 1930s. In the 1930s, many observers believed that fascism or communism, and not democracy, would be the wave of the future.
+What is significant for this discussion is that there has been much less democratic breakdown since 1980 than there was following earlier ‘waves’ of democratisation. By the middle of the 1990s, well over 50 countries that
+ 36
+were not democracies at the beginning of 1974 had become democracies. Most of these were in the Third World, and so far the vast majority of these democratic transitions have not been reversed. Some countries nevertheless did suffer from democratic breakdown. A military coup took place in Pakistan in 1999, and serious problems were seen with the electoral process in Zimbabwe in 2002. It is also clear that some important parts of the
+world – China and much of the Middle East – did not participate in the most recent democratising wave. Nonetheless, we cannot really speak of any major reversal of the most recent wave of democratisation.
+However, progress towards democracy has slowed down since the mid- 1990s. Even so, the extent of democratisation has surprised scholars.
+As we shall see in more detail in the next chapter, some modernisation theories did not expect the spread of democracy across Africa and Latin America to be sustained. It is true that some new democracies do not seem to be particularly secure and that only some of the countries that have democratised since 1974 can be regarded as democratically consolidated. Nevertheless, as we saw in the last chapter, the criterion of democratic consolidation is demanding. The mere fact that democracy has proved as durable as it has over quite long periods of time is significant.
+One way of trying to understand the magnitude of this transformation is to consider how different forms of non-democracies have evolved into democracies or, on occasion, have failed to do so. This approach will be considered in the rest of this chapter.
+Colonial rule and the collapse of empires
+An important force behind political change has been the decline, or in some cases, collapse of empires. This process has sometimes created entirely new countries – new countries that need new political systems. Ex-colonial countries have not invariably adopted democratic systems
+of government. Former British colonies have often done so – the USA, India and Ireland are positive examples – but there are negative examples as well, such as Pakistan. Former Spanish colonies did not immediately develop democratic institutions, even in countries, such as Argentina, that were settled principally from Europe. Nevertheless, the history of decolonisation has seen major changes in the way in which very large numbers of people have been governed.
+The defeat of the British Empire in the War of American Independence had particularly important consequences for the history of democracy worldwide. The USA pioneered the presidential system of government, which today is the main alternative to parliamentarianism. A generation later, the success of many former Latin American colonies of Spain and Portugal in securing independence also brought into existence new states and new constitutional systems – although constitutional development was much less successful in Latin America than in the USA. Most Latin American countries adopted hybrid systems that include:
+• presidentialism
+• continental European systems of administrative law
+• a tradition of rule by decree.
+Unfortunately, very few systems of this kind have truly consolidated institutionally in the long run.
+In 1918, the collapse of the Austro–Hungarian Empire also brought
+a number of new states into existence. Attempts were made to set up democratic parliamentary systems in most of these new states, but virtually all of them failed, falling victim to authoritarian forms of politics by the 1930s. Many were then occupied or controlled by the Nazis during 1941– 45. In some cases re-democratisation followed the defeat of Nazi Germany in 1945 and in others it followed the collapse of Communism in the 1980s.
+After the Second World War, the European empires pursued a consistent, if not always voluntary, policy of decolonisation. The political results
+of independence were mixed, but at least some countries adopted and retained democratic systems. India famously adopted a democratic parliamentary system in the late 1940s, while some other countries, notably in Africa, only became democracies in the 1980s ‘wave’, and sometimes not even then.
+Political consequences of imperial control and decolonisation prior to 1990
+The effect of imperial collapse upon democratisation was therefore rather mixed. In some very important cases, the end of empire led to democratisation, but this was by no means the only outcome. It is clear that democratisation did spread after the collapse of the former Soviet Union, but much less clear that the collapse of previous empires had so general an effect. The consequences of earlier forms of imperial control and decolonisation in various parts of the world depended upon (among other things):
+• the character of the imperial society
+• the extent to which there was settlement from the metropolitan country
+• the historical epoch in which the colonising and decolonising took place.
+In some cases, the impact of colonial rule was utterly destructive. Indigenous populations in much of the Americas were either totally wiped out or greatly reduced in number.
+In other cases, the colonial power sought to reduce the cost of direct administration, either by allowing some precolonial patterns of authority to survive or by developing and transmitting new institutions. This was done with varying degrees of success in different parts of the world. In some cases, European colonial powers were able to legitimate their rule, in the sense that subjects of the empire wished to remain so, at times on the basis of full-scale integration into the imperial country, but such cases are extremely few. Sometimes, willing ex-colonies have proved to be more a source of embarrassment than satisfaction to the colonial power, which wanted to find an acceptable means of getting rid of a colony eager to stay in the empire – the Falkland Islands are one example and Gibraltar another. Of course, the Falklands are populated by British settlers rather than indigenous people. On the other hand, though, indigenous peoples in Martinique and French Guyana are content to remain part of France. This kind of government is not inevitably non-democratic, in the sense that the French Guyanese vote in French elections and the Falkland Islanders elect a council of their own.
+Far more often, however, the imperial power was unable to persuade former colonies to remain as colonies. When the opportunity for independence presented itself, it was generally accepted and sometimes seized. We can identify four possible ways in which decolonisation interacted with democratisation:
+• continuity and democratisation
+ 38
+• continuity and non-democratisation
+• discontinuity and democratisation
+• discontinuity and non-democratisation.
+Continuity and democratisation
+In some cases, independent countries adopted democratic institutions from their former colonial powers (which were themselves democracies). It sometimes mattered that independence was granted and accepted on relatively good terms, though this was not necessarily decisive. Britain retained good relations with India after independence in 1947, and India adopted and maintained a parliamentary system based on the British model. The same was also true of British Honduras, which became known as Belize upon independence in 1981. Nevertheless, the bitterly fought independence movement in Ireland did not preclude Ireland from adopting parliamentary institutions after 1922.
+Continuity and non-democratisation
+In some cases, the independent country threw off the control of a non- democracy, but did not democratise when it did so. A form of colonial rule
+that was doubly non-democratic (both because colonialism is not inherently democratic and because the colonial power was not a democracy) then gave way to a non-democratic but local form of post-colonial rule. When Brazil became independent from Portugal in the 1820s, it retained a monarchical system of government. The monarchy was not overthrown until 1889, and Brazil did not really establish a democratic form of government until the 1980s.
+Discontinuity and democratisation
+The category most relevant to the issue of democratic transition occurred where the collapse of a non-democratic empire led to the adoption
+of democracy in the newly independent countries. When Soviet rule collapsed in Eastern Europe after 1989, most of the countries of eastern Europe adopted democratic systems of government. They did so partly in reaction to the unpopular Communist system imposed upon them earlier, partly out of a genuine preference for democracy and partly because the new states enjoyed the support of the USA and the European Union. Such cases are illustrations of transition to democracy via imperial collapse.
+Discontinuity and non-democratisation
+In some cases, newly independent countries seemed likely to adopt democratic parliamentary systems similar to those existing in their former colonial powers, but in the end did not do so. This pattern of abortive democracy is common in Africa, although the past decade has seen significant amounts of re-democratisation in the region. Vietnam and Algeria became independent from France when France was a democracy, but they did not democratise themselves.
+Negative legacies of colonialism
+Sometimes the impact of colonialism created problems that made it hard for post-colonial countries to become stable democracies. One of the legacies of colonialism was that centralised states and national borders were organised over territories that had not previously known them or that had experienced quite different boundaries at earlier times. Borders that once seemed artificial often remained intact after the ending of colonial rule and tensions often resulted from a poor ‘fit’ between the externally imposed national borders and the original allegiances of indigenous peoples. Because empires were coercive, they sometimes imposed a single form of rule on ethnically or religiously divided territories. The downfall of such empires has led, at times, to an upsurge in conflict between different ethnic or religious groups as each tried to consolidate its own territorial claims.
+Sometimes a clear-cut secession is possible and may appear to resolve the issue (for example, the Czech Republic and Slovakia agreed to separate in 1991). At other times, clear-cut solutions are less easy to find and serious armed conflict may develop. These conflicts did not absolutely prevent subsequent democratisation but they did make it more difficult. Examples include:
+• the former republics of Yugoslavia in the 1990s
+• Ireland after 1922
+• India/Pakistan after 1947.
+One might conclude this discussion, therefore, by saying that empires, although they do not often make any successful claim to legitimacy in their own terms, do at times develop institutions that can be transmitted successfully to colonies and kept on after independence. It is often a matter of contingency whether or not this happens, however, and there have been many failures as well as successes. For this reason, the decline of empires – although an opportunity for democratic transition – can also be a time of very great disorder and conflict.
+Whether the influence exerted today by the USA over Latin America and by some European countries over parts of Africa can be considered imperial
+is controversial. What is clear, though, is that attempts by the USA and
+to some extent Europe to export democracy to various parts of the world have been influential. In southern and eastern Europe, countries that could sustain democratic institutions over the long term could enjoy the prospect of membership of the European Union. Such membership is advantageous on many grounds. In the African case, quite significant amounts of aid have been made conditional on democratisation. The relative importance of this linkage for democracy has varied from case to case and is never preponderant. International bodies do have to work through local agents
+if they are to succeed and most Africans do prefer democracy. At the very least, however, the international community is much less supportive of non- democracy in the Third World than was once the case. In Latin America,
+too, international influence has played a part in discouraging dictatorship, although abundant survey evidence shows that most people within the region prefer democracy, and this fact needs to be taken into account as well.
+Consequences of the breaking-up of the former Soviet Union in 1991
+The central event in the third wave of democratisation was the fall of the former Soviet Union. Although Soviet rule over eastern Europe loosened considerably after 1986, the seminal event here was the breaking up of the former Soviet Union after a failed military coup attempt in 1991. This had three important consequences.
+1. Several countries in eastern Europe that would probably have adopted democracy if left to themselves could then do so. The Soviet Union had supported communist rule in eastern Europe and invaded Hungary in 1956 and Czechoslovakia in 1968 in order to preserve communism in the region, but from the late 1980s, the former Soviet Union no longer tried to do so.
+2. The decline and eventual disintegration of the former Soviet Union changed the nature of politics in other parts of the world. Communist parties in non-communist countries needed to rethink their ideologies and strategies. This was also true of anti-communists. Some of those who had supported military rule in Latin America because they believed that this was the only way of suppressing communism had to re-evaluate their positions. Similarly, the USA and some European governments, which had previously backed non-democratic rulers
+in parts of the Third World because they were anti-communist and likely to suppress communism, no longer needed to do so. The USA, in particular, became a global advocate of democratisation and this is also true of the European Union.
+3. A number of newly independent republics that had formerly been part of the Soviet Union (though not all of them) subsequently adopted democratic systems of government.
+Activity
+List the most important European Empires, including the former Soviet Union. Trace out which of their ex-colonies became democracies immediately after independence and which did not.
+Other forms of non-democratic organisation
+We now turn to countries that have made the transition to democracy without major changes in their basic identity or international relations. There are three fairly common forms of non-democratic rule in the world today:
+• monarchy
+• military government
+• rule via a dominant party system.
+We might want to make a further distinction between totalitarian and authoritarian rule, but this will not be discussed in great detail here, because it is not directly relevant to democratisation.
+Monarchy
+A number of countries are monarchies today, but for many it is in name only, in the sense that the monarch is a figurehead for what is, in practice, parliamentary government. Nepal, Saudi Arabia and the Emirates of
+the Persian Gulf are still run on monarchical principles, and the King of Thailand exerts real, though not absolute, power in his country.
+At first sight, the concept of monarchy might fit perfectly into Weber’s belief that some political systems can be run on the basis of ‘traditional’ legitimation. There can be little doubt that the maintenance of a figurehead monarchy in parliamentary democracies relates to the aim of legitimating political authority among certain sections of the population. Soldiers in the UK are asked to risk their lives for ‘Queen and country’. The appeal of ‘Prime Minister and country’ may be somewhat less. Monarchists in the UK would almost certainly win a referendum on the question of whether the UK should become a republic. It would be far too much to claim that the monarchy in the UK legitimates the political system as
+a whole, but it probably plays a modest part in the overall process of legitimating state power. In countries where the monarch actually does rule, it would, by the same token, be too simple to adopt an uncritical definition of traditionalism. Traditionalism usually is, to some degree, contrived and deliberately designed to maintain stability. Another Middle Eastern monarchy – that of Reza
+Shah II in Iran – could scarcely be seen as traditional at all, although this partially explains its undoing. In 1979, the Shah was overthrown by religious fundamentalists, who did not believe that he was traditional enough.
+Most observers have attributed the survival of the Saudi and Gulf monarchies less to the legitimation produced by traditional values than
+to the neo-patrimonial allocation of resources in oil-rich countries (see Crystal, 1990). In other words, oil money is recycled through these societies as a result of essentially personalist decisions made by the ruling families. The money clearly alleviates social discontent. The deliberate arbitrariness and unpredictability of a system that depends upon individual decision-making creates some degree of insecurity within civil society. As a result, people who need access to public money are less likely to try to organise themselves in order to demand their rights or oppose the government. The objective of all of this from the viewpoint of the rulers is not so much to build political institutions as to avoid the need for them, although family networks remain.
+Monarchical systems can, however, undertake the transition to democracy. Sometimes this may occur because of the will of the monarch. A notable example of this occurred in Spain after 1975 when King Juan Carlos made a determined attempt to ensure that his country adopted democratic principles. Although there were some anxious moments, in the end the transition to democracy was a clear success. When this happens, it is likely that the country will retain a constitutional monarchy. Such a system can remain a surprisingly popular form of government as long as the monarch does not seek to undermine the principles of the constitution. At other times, though, monarchs have been opposed to democratisation and have either prevented it from happening or else have fallen from power under pressure from forces demanding change. The most spectacular recent case was the fall of the Shah of Iran in 1979. Since it is hard to think of a smooth and sustained transition to democracy that has also involved the overthrow of a monarchy, it is likely that democratic prospects are enhanced when the monarch supports democratic transition rather than opposes it.
+Military government
+Military rule, like monarchy, is a more complex form of government than it may at first seem. It may indeed appear coercive and repressive. After all it might be said that the whole point of military rule is to introduce policies and forms of governance different from those the people would choose
+if they could. Often, it is true that the whole purpose of military rule is to block democratic government. Some significant exceptions to this rule do exist, however, and the question of how military rule can give way to democratic government is complex.
+Sometimes the military itself initiates democratisation. This may happen because military rulers have got into difficulties and seek some form of extrication. Commonly, a military withdrawal from power occurs on the implicit basis that it could be cancelled or reversed later on. Military officers may be more willing to hand over power to civilians if they think that the new arrangement may only be temporary. Of course, if democracy is to survive, any expectation that the military is handing back power temporarily will have to be changed at a later date. This is, to a degree, what happened in Latin America in the early 1980s. Many officers who
+were involved in handing back power to elected civilians did so in the belief that this was just another phase in a cycle of military and civilian rule. Only in retrospect did the transfer appear definite. What needs to be explained, therefore, is less the original decision to hand power back than the inability or unwillingness of the military to organise fresh intervention. The changed international environment may be an important part of the explanation for this.
+Another possible pattern of transition occurs when the military seeks
+to move from a position of outright dictatorship to a position in which
+they still rule, but in which they do so in a more indirect and therefore theoretically more constitutional way. Sometimes, a move from open dictatorship to semi-dictatorship has appeared to work. General Pinochet in Chile twice won plebiscites – in 1978 and 1980. In the longer run, however, semi-dictatorship is an unstable form of government. By attempting to sustain it, military rulers have often put themselves in positions where they had to give up power altogether. When General Pinochet lost the 1988 plebiscite (his third), he was forced to give up power altogether. By the same token, military officers sometimes prefer one civilian political party to another and they may try to organise democratic transition in such a way as to help their friends. If the military government is unpopular, however, people may vote for a candidate who is seen as the most anti-military of all of those available.
+Another reason for the military allowing a transition to democracy is
+that it sometimes sees no further point in continuing to govern. Military officers are not necessarily anti-democrats in principle – they may have genuine institutional concerns. One reason the military sometimes distrusts democracy has to do with the concept of hierarchy, which is central to the military itself. The military organisation is based on hierarchy, discipline
+and obedience, not on participation or activism. To that extent, it can be threatened by civil commotion and political militancy. After a period of time, however, it may come to feel that society has changed and the danger has passed. After 1975 the Spanish military was mostly prepared to believe that the circumstances prevailing at the time of the 1936–39 Civil War no longer existed. The decline of communism in the 1980s also persuaded some military officers in South America that they had less to fear from democracy.
+A less stable way by which military governments have sometimes tried to adapt to democracy was for officers to make the transition into civilian politics. It is not impossible for officers who have already taken power
+to organise some kind of political party, provided that they are willing
+to accept a transition from military to civilian life. Colonel Peron played
+an important part in the Argentine military coup of 1943, but thereafter behaved much as any civilian politician. Although Peron himself was eventually overthrown by the military in 1955, Peronism was (and is) a successful political movement. Similarly, the Mexican Revolutionary Party was created by successful revolutionary generals willing to operate through a party organisation. Today, the party is wholly civilian. In ex-military or semi- military governments in the Middle East, the instrument of government is a ruling party rather than the military. However, these transitions, real though they were, did not for the most part lead quickly to stable democracy.
+Finally, the military may simply be defeated and become unable to maintain itself in power. In this situation, however, political change will not necessarily lead to democracy. In Cuba, the military dictator Batista was overthrown by Fidel Castro in 1959, and in Nicaragua, the military dictator Somoza was overthrown by the Sandinistas in 1979. Neither of these dictatorships was typical of the region – they were much more
+Chapter 3: Non-democratic systems and the transition to democracy
+43 personalistic than the majority. However, this does not alter the fact
+that they were overthrown by force. Nicaragua, after a flirtation with communism, eventually evolved in the direction of democracy; Cuba remains authoritarian. In other cases, political change has been precipitated by defeat by an external force. The Argentine military government fell in 1982–83 following a military defeat by the UK, and democracy returned to Panama after the USA invaded and deposed General Noriega in 1989.
+Activity
+List the main real-world cases that involved democratisation of monarchical systems and the democratisation of military governments.
+Dominant party government
+The idea of government by an all-controlling party largely stems
+from Lenin’s organisation of the Russian Bolsheviks. Lenin set up a Revolutionary party, not in order to compete for power in a democratic system, but rather to seize power from an autocracy. His idea was to create a strongly disciplined elite party composed of professional revolutionaries – a so-called vanguard party. This would, in turn, control a range of other organisations either openly or through clandestinity.
+Lenin did not bring about the overthrow of the Tsarist monarchy. He did not expect this to happen, and played little part in it. What he did do was take advantage of the power vacuum that followed the defeat of the Tsar in order to organise the seizure of power. The Bolsheviks were then able to take control of the whole of the Soviet Union and govern until the entire system collapsed at the end of the 1980s.
+The idea of a vanguard party was hugely influential in other parts of the world. However, the communist parties in China, Cuba and Yugoslavia differed from the Bolsheviks in that they were originally, in large part, military organisations as well as political ones. Mao, Tito and Castro actually took power by force from pre-existing dictatorships. The military aspect of government in these countries was correspondingly greater than that in the former Soviet Union.
+We have already noted that the Communist Party of the Soviet Union collapsed in 1991. Essentially, it was torn apart by internal conflicts between would-be modernisers and traditionalists who wanted to retain the Soviet Empire at all costs. Meanwhile, some of the modernisers had become alienated from the Communist Party and wanted a new kind of political system altogether. Most dominant party systems, however, are run in a very disciplined way by people who understand that internal disunity is likely to have very serious consequences, which is what happened in the former Soviet Union. Of the world’s remaining non-democracies, the most important are based on dominant party systems run by autocratic leaders.
+Can Leninist vanguard systems adapt to democratic circumstances? Evidence shows that they can, even though they may not particularly
+want democracy. The Mexican PRI had many of the characteristics of a dominant party system, although it was able to adapt to democratisation. The same was also true for the former ruling party in Taiwan. Both of these parties were able to retain an essential degree of unity, while moving from being authoritarian parties to parties willing to engage in democratic contestation. Both eventually lost power via the popular vote, but neither disintegrated completely. Both parties continue to play an active part in democratic politics.
+  44
+Chapter 3: Non-democratic systems and the transition to democracy
+ Transitions to democracy
+It is difficult to theorise about democratic transition on the basis of logical deduction about the strengths and weaknesses of non-democratic forms of rule – so many different possibilities exist. Moreover, subjective factors – such as whether particular individuals prefer democracy or distrust it – may matter as much as objective conditions.
+Attempts have been made to discuss democratic transition in more general terms, however.
+• A first influential approach is based on ideas about class power and state power.
+• A second approach is based on ideas of economic change and assumes that democratisation is associated with economic progress. This kind
+of approach – known as modernisation theory – is also discussed in the next chapter. It is important to note, however, that a number of quite poor countries have democratised since 1985, and that this is something that modernisation theory on its own would have failed to predict.
+• A third approach refuses to consider general ideas and puts a lot of emphasis on the detail of individual cases (see di Palma, 1990). If 50 countries have democratised in the past 15 years, there are likely to be 50 different combinations of factors responsible. This approach
+is valuable as a corrective, and it reminds us that democratisation is something that has to be brought about by political practitioners: it does not just happen by itself. Yet, if there were no general influences, one would expect democratisation to be something of a random process.
+In point of fact, democratisation has generally occurred in waves rather than as a set of random events. We do need, therefore, to consider changes in international politics. These are not the only relevant factors, but
+they clearly matter and they are capable of being analysed in reasonably general terms.
+A reminder of your learning outcomes
+Having completed this chapter, and the Essential reading and activities, you should be able to:
+• explain the main problems and difficulties that are likely to be associated with democratising each system of government discussed in this chapter (empire, monarchy, military government and dominant party rule)
+• explain how transition could happen in different kinds of non-democratic political system."
+"explain this sentence form Said's introduction in Orietalism:  Therefore, Orientalism is not a mere political subject matter or field that is reflected passively by culture, scholarship, or institutions; nor is it a large and diffuse collection of texts about the Orient: nor is it representative and expressive of some nefarious ""Western"" imperialist plot to hold down the ""Oriental"" world. It is rather a distribution of geopolitical awareness into aesthetic, scholarly, economic, sociological, historical, and philological texts; it is an elaboration not only of a basic geographical distinction (the world is made up of two unequal halves, Orient and Occident) but also of a whole series of ""interests"" which, by such means scholarly discovery, philological reconstruction, psychological analysis, landscape and sociological description, it not only creates but also maintains; it is, rather than expresses, a certain will or intention to understand, in some cases to control, manipulate, even to incorporate, what is a manifestly different (or alternative and novel) world; it is, above all, a discourse that is by no means in direct, corresponding relationship with political power in the raw, but rather is produced and exists in an uneven exchange with various kinds of power, shaped to a degree by the exchange with power political (as with a colonial or imperial establishment), power intellectual (as with reigning sciences like comparative linguistics or anatomy, or any of the modern policy sciences), power cultural (as with orthodoxies and canons of taste, texts, values), power moral (as with ideas about what ""we"" do and what ""they"" cannot do or understand as ""we"" do). Indeed, my real argument is that Orientalism is- and does not simply represent- a considerable dimension of modern political-intellectual culture, and as such has less to do with the Orient than it does with ""our"" world.
+Because Orientalism is a [cultural and a political fact, then, it does not exist in some archival vacuum; quite the contrary, I think it can be shown that what is thought, said, or even done about the Orient follows (perhaps occurs within) certain distinct and intellectually knowable lines.
+Here too a considerable degree of nuance and elaboration can be seen working as between the broad superstructural pressures and the details of composition, the facts of textuality. Most humanistic scholars are, I think, perfectly happy with the notion that texts exist in contexts, that there is such a thing as intertextuality, that the pressures of conventions, predecessors, and rhetorical styles limit what Walter Benjamin once called the ""overtaxing of the productive person in the name of ..
+the principle of
+'creativity.' "" in which the poet is believed on his own, and out of his pure mind, to have brought forth his work.? Yet there is a reluctance to allow that political, institutional, and ideological constraints act in the same manner on the individual author."
+"act as an FPA expert analyst, explain in detail in a discoursive way"
+"act as an FPA expert analyst, explain in a very detailed and discoursive way the text  following the development of the thesis in the text"
+"https://www.tbsnews.net/features/panorama/education-bangladesh-promises-paper-only-988121 according to this article, why might it just be an empty promise?"
+"""A first step is to define what a democracy is, perhaps by using Dahl or Przeworski. The key point here is to discuss why democracies might hold elected leaders accountable, so any good discussion would involve an analysis of how elections work in democracies and the variety of different types of electoral systems. Good answers should quickly move beyond the commonplace assumption that democracy produces government accountable to ‘the people’, to point out the technical difficulties with demonstrating that elections can produce stable equilibria in multi-dimensional space that transmit useful information about voters’ preferences over policy options to politicians. And without such information transmission, accountability is impossible. The best answers will go into some detail on issues such as the Hotelling beach, Condorcet cycling, and deterministic vs. probabilistic voting. You should then point out that democracy consists of much more than just voting, and the relevant question is not just about elections, but rather can the complex of elections, lobbying, organised civic activity, citizen mobilizations, the activities of the press, independent universities, think tanks and other analysts, etc come together to tie politicians’ actions to what citizens want?
+You should also be able to state why elections might not always be able to provide accountability due to corruption, clientelism and patronage, or ‘pork-barrel politics’ as it is known in some places. Very good answers will discuss whether the broad sweep of democratisation in Africa since 1990 has enhanced accountability, alongside discussions of how accountability might also work in non-democracies."" based on this commentary, write key points to each paragraph (three in total) for a full essay of EMFSS students at LSE final exams."
+"shortly and simply, what is the main argument and what are the key findings?"
+how is the infrastructure in schools in the rural parts of Bangladesh?
+please summarise the the Executive Summary and the Findings and Recommendations chapters in detail
+please summarise in detail
+please summarise in detail
+please summarise in detail
+please summarise in detail
+please summarise in detail
+give a detailed summary of this text
+"Qian, Y. (2003). ‘How Reform Worked in China.’ In Rodrik, D. (ed.) In Search of Prosperity: Analytical Narratives on Economic Growth. Princeton: Princeton University Press. Chapter 11. what is this about?"
+"David Keen – Complex Emergencies, Chapter “Greed: Economic Agendas”. what is being said in this chapter?"
+"how would you structure an essay plan for this question. include citations. 'The IMF has been successful in stabilising international economic relations, but too often at the cost of social and political disorder within states.’ Discuss."
+"Bowen, John (1996). ‘The Myth of Global Ethnic Conflict’, Journal of Democracy. Project MUSE - The Myth of Global Ethnic Conflict. could you please tell me the argument made in this document. Keep if short. According to this article, what initiates violence?"
+what is the current peace situation in the ivory coast. did hte peace agreement hold?
+how is the access to education in Bangladesh
+""
+please summarise in detail
+does china have the status of most favoured nation in the wto?
+"I am doing a presentation on Why did the Doha Round of World Trade Organisation trade negotiations fail, and what have been the main developments at the WTO since then? - give me some questions for discussing please"
+what does this say about the doha round the wto
+thesis statement briefly
+"rewrite in simple german: As early as the 1870s , Theodor Fontane found that the Spreewald cucumber was the most popular agricultural product in the Brandenburg Spreewald :"
+What tools of economic statecraft can a state resort to in its foreign policy?
+can you please summarise pages 3-44 in detail
+write a detailed essay plan for this question including scholar citations. How much of a danger does nuclear proliferation actually pose?
+please summarise pages 1-60 in detail
+"this is a description of a job i want to apply for. Please pull out the key skills and responsibilities they want the ideal candidate to have.
+
+The position
+This internship position will support the MCO Canberra Durable Solutions Unit across its four key sub-unit thematic areas of work including: Offshore, Incoming Resettlement and Complementary Pathways, Pacific Protection and Papua New Guinea. The internship will therefore entail varied and interesting work, supporting the broader DSU Unit and acquiring insights into UNHCR’s protection and solutions activities on a daily basis, working alongside a large number of different staff members. The position will involve cross-cutting work relevant to enhancing the efficiency of workflows and the capturing and visualization of data across the DSU team. It will also involve substantive and logistical support on a range of DSU team engagements with stakeholders on pursuing protection and solutions outcomes for the people UNHCR serves.
+
+Duties and responsibilities
+The DSU Intern will be mentored by different staff in the DSU Unit to undertake their duties, and in turn will support the Unit across its relevant Pillars in: 
+
+•	Developing tools and enhancing systems in place to support a more efficient and effective workflow; 
+•	Data management support including the development of infographics and related visual tools to support internal and external advocacy with stakeholders on the protection situation for people UNHCR serves;
+•	Support development of electronic and hard copy informational materials to enhance awareness among asylum seekers and refugees of their key rights, but also to raise awareness at community and Government levels on protection matters;
+•	Support in DSU engagements including mission preparation and logistical and coordination support;
+•	Conduct Country of Origin (COI) information research and other research as needed, to support Eligibility Officers in their Refugee Status Determination and resettlement (RST) case processing procedures; 
+•	Prepare presentation materials such as PowerPoints, fact sheets and related materials;
+•	Assist with scheduling for the DSU team (counselling, mission appointments, protection monitoring and interviewing);
+•	Support in protection counselling to asylum seekers and refugees and supporting to enhance counselling lines and tools including group-based counselling;
+•	Support to enhance and update the UNHCR website materials relating to information available to the people UNHCR serves but also external audiences; 
+•	Support in research and compilation of analytical papers on thematic protection and solutions matters; 
+•	Assist in reviewing and documenting data management procedures and policies, ensuring that written guidance is available for all procedures in place;
+•	Support to contact refugees and asylum-seekers subject to offshore processing to assist them to complete Expressions of Interest (EOI) in New Zealand as needed, provide them with information on the New Zealand process and ensure that they are informed on the voluntariness of participation in the resettlement process;
+•	Assist with New Zealand resettlement selection missions as needed, including basic pre-interview counselling; and
+•	Support in preparation of file notes, reports, administrative tasks, and any other relevant activities, as required.
+Minimum qualifications required.
+In order to be considered for an internship, candidates must meet the following eligibility criteria:
+•	Be either a recent graduate (having completed their studies within two years of applying) or a current student in a graduate/undergraduate school programme from a university or higher education facility accredited by IAU/UNESCO ; and
+•	Have completed at least two years of undergraduate studies in a field relevant or of interest to the work of UNHCR .
+•	Candidates with previous UNHCR Internship experience must not have exceeded the
+maximum total cumulative full-time internship duration of eight (8) months.  
+
+Desirable qualifications and skills
+•	Applicants should have relevant studies in law or the legal field, international relations, human rights, or related field(s); 
+•	Have experience and/or a demonstrated interest in asylum and refugee protection or broader human rights. 
+•	Data management skills and advanced computer and related skills are desirable. 
+•	Strong interpersonal and communication skills are desirable traits for this role."
+summarise the conclusion in bulletpoints
+please provide harvard style reference for this document
+please make 5 minute presentation in German for a beginner A1 speaker about pasta with the information on this website: https://en.wikipedia.org/wiki/Pasta
+"please summarise key points: The Clash of Ignorance
+Labels like ""Islam"" and ""the West"" serve only to confuse us about a disorderly reality.
+
+Edward W. Said
+Share
+
+
+Popular
+The Impossible Story of CommunismThe Impossible Story of Communism
+Books & the Arts / David A. Bell
+
+How the US Media Helped the Biden Administration Distance Itself From the Horrors of GazaHow the US Media Helped the Biden Administration Distance Itself From the Horrors of Gaza
+Adam Johnson and Othman Ali
+
+Donald Trump Has NOT Won a Majority of the Votes Cast for PresidentDonald Trump Has NOT Won a Majority of the Votes Cast for President
+John Nichols
+
+Bernie Sanders: We Need More Working-Class Candidates to Challenge Both PartiesBernie Sanders: We Need More Working-Class Candidates to Challenge Both Parties
+Q&A / John Nichols
+
+This article appears in the October 22, 2001 issue.
+Samuel Huntington’s article ""The Clash of Civilizations?"" appeared in the Summer 1993 issue of Foreign Affairs, where it immediately attracted a surprising amount of attention and reaction. Because the article was intended to supply Americans with an original thesis about ""a new phase"" in world politics after the end of the cold war, Huntington’s terms of argument seemed compellingly large, bold, even visionary. He very clearly had his eye on rivals in the policy-making ranks, theorists such as Francis Fukuyama and his ""end of history"" ideas, as well as the legions who had celebrated the onset of globalism, tribalism and the dissipation of the state. But they, he allowed, had understood only some aspects of this new period. He was about to announce the ""crucial, indeed a central, aspect"" of what ""global politics is likely to be in the coming years."" Unhesitatingly he pressed on:
+
+""It is my hypothesis that the fundamental source of conflict in this new world will not be primarily ideological or primarily economic. The great divisions among humankind and the dominating source of conflict will be cultural. Nation states will remain the most powerful actors in world affairs, but the principal conflicts of global politics will occur between nations and groups of different civilizations. The clash of civilizations will dominate global politics. The fault lines between civilizations will be the battle lines of the future.""
+
+symbol
+00:00
+
+03:12
+Read More
+
+
+
+Most of the argument in the pages that followed relied on a vague notion of something Huntington called ""civilization identity"" and ""the interactions among seven or eight [sic] major civilizations,"" of which the conflict between two of them, Islam and the West, gets the lion’s share of his attention. In this belligerent kind of thought, he relies heavily on a 1990 article by the veteran Orientalist Bernard Lewis, whose ideological colors are manifest in its title, ""The Roots of Muslim Rage."" In both articles, the personification of enormous entities called ""the West"" and ""Islam"" is recklessly affirmed, as if hugely complicated matters like identity and culture existed in a cartoonlike world where Popeye and Bluto bash each other mercilessly, with one always more virtuous pugilist getting the upper hand over his adversary. Certainly neither Huntington nor Lewis has much time to spare for the internal dynamics and plurality of every civilization, or for the fact that the major contest in most modern cultures concerns the definition or interpretation of each culture, or for the unattractive possibility that a great deal of demagogy and downright ignorance is involved in presuming to speak for a whole religion or civilization. No, the West is the West, and Islam Islam.
+
+The challenge for Western policy-makers, says Huntington, is to make sure that the West gets stronger and fends off all the others, Islam in particular. More troubling is Huntington’s assumption that his perspective, which is to survey the entire world from a perch outside all ordinary attachments and hidden loyalties, is the correct one, as if everyone else were scurrying around looking for the answers that he has already found. In fact, Huntington is an ideologist, someone who wants to make ""civilizations"" and ""identities"" into what they are not: shut-down, sealed-off entities that have been purged of the myriad currents and countercurrents that animate human history, and that over centuries have made it possible for that history not only to contain wars of religion and imperial conquest but also to be one of exchange, cross-fertilization and sharing. This far less visible history is ignored in the rush to highlight the ludicrously compressed and constricted warfare that ""the clash of civilizations"" argues is the reality. When he published his book by the same title in 1996, Huntington tried to give his argument a little more subtlety and many, many more footnotes; all he did, however, was confuse himself and demonstrate what a clumsy writer and inelegant thinker he was.
+
+The basic paradigm of West versus the rest (the cold war opposition reformulated) remained untouched, and this is what has persisted, often insidiously and implicitly, in discussion since the terrible events of September 11. The carefully planned and horrendous, pathologically motivated suicide attack and mass slaughter by a small group of deranged militants has been turned into proof of Huntington’s thesis. Instead of seeing it for what it is–the capture of big ideas (I use the word loosely) by a tiny band of crazed fanatics for criminal purposes–international luminaries from former Pakistani Prime Minister Benazir Bhutto to Italian Prime Minister Silvio Berlusconi have pontificated about Islam’s troubles, and in the latter’s case have used Huntington’s ideas to rant on about the West’s superiority, how ""we"" have Mozart and Michelangelo and they don’t. (Berlusconi has since made a halfhearted apology for his insult to ""Islam."")
+
+
+But why not instead see parallels, admittedly less spectacular in their destructiveness, for Osama bin Laden and his followers in cults like the Branch Davidians or the disciples of the Rev. Jim Jones at Guyana or the Japanese Aum Shinrikyo? Even the normally sober British weekly The Economist, in its issue of September 22-28, can’t resist reaching for the vast generalization, praising Huntington extravagantly for his ""cruel and sweeping, but nonetheless acute"" observations about Islam. ""Today,"" the journal says with unseemly solemnity, Huntington writes that ""the world’s billion or so Muslims are ‘convinced of the superiority of their culture, and obsessed with the inferiority of their power.’"" Did he canvas 100 Indonesians, 200 Moroccans, 500 Egyptians and fifty Bosnians? Even if he did, what sort of sample is that?
+
+Uncountable are the editorials in every American and European newspaper and magazine of note adding to this vocabulary of gigantism and apocalypse, each use of which is plainly designed not to edify but to inflame the reader’s indignant passion as a member of the ""West,"" and what we need to do. Churchillian rhetoric is used inappropriately by self-appointed combatants in the West’s, and especially America’s, war against its haters, despoilers, destroyers, with scant attention to complex histories that defy such reductiveness and have seeped from one territory into another, in the process overriding the boundaries that are supposed to separate us all into divided armed camps.
+
+This is the problem with unedifying labels like Islam and the West: They mislead and confuse the mind, which is trying to make sense of a disorderly reality that won’t be pigeonholed or strapped down as easily as all that. I remember interrupting a man who, after a lecture I had given at a West Bank university in 1994, rose from the audience and started to attack my ideas as ""Western,"" as opposed to the strict Islamic ones he espoused. ""Why are you wearing a suit and tie?"" was the first retort that came to mind. ""They’re Western too."" He sat down with an embarrassed smile on his face, but I recalled the incident when information on the September 11 terrorists started to come in: how they had mastered all the technical details required to inflict their homicidal evil on the World Trade Center, the Pentagon and the aircraft they had commandeered. Where does one draw the line between ""Western"" technology and, as Berlusconi declared, ""Islam’s"" inability to be a part of ""modernity""?
+
+One cannot easily do so, of course. How finally inadequate are the labels, generalizations and cultural assertions. At some level, for instance, primitive passions and sophisticated know-how converge in ways that give the lie to a fortified boundary not only between ""West"" and ""Islam"" but also between past and present, us and them, to say nothing of the very concepts of identity and nationality about which there is unending disagreement and debate. A unilateral decision made to draw lines in the sand, to undertake crusades, to oppose their evil with our good, to extirpate terrorism and, in Paul Wolfowitz’s nihilistic vocabulary, to end nations entirely, doesn’t make the supposed entities any easier to see; rather, it speaks to how much simpler it is to make bellicose statements for the purpose of mobilizing collective passions than to reflect, examine, sort out what it is we are dealing with in reality, the interconnectedness of innumerable lives, ""ours"" as well as ""theirs.""
+
+In a remarkable series of three articles published between January and March 1999 in Dawn, Pakistan’s most respected weekly, the late Eqbal Ahmad, writing for a Muslim audience, analyzed what he called the roots of the religious right, coming down very harshly on the mutilations of Islam by absolutists and fanatical tyrants whose obsession with regulating personal behavior promotes ""an Islamic order reduced to a penal code, stripped of its humanism, aesthetics, intellectual quests, and spiritual devotion."" And this ""entails an absolute assertion of one, generally de-contextualized, aspect of religion and a total disregard of another. The phenomenon distorts religion, debases tradition, and twists the political process wherever it unfolds."" As a timely instance of this debasement, Ahmad proceeds first to present the rich, complex, pluralist meaning of the word jihad and then goes on to show that in the word’s current confinement to indiscriminate war against presumed enemies, it is impossible ""to recognize the Islamic–religion, society, culture, history or politics–as lived and experienced by Muslims through the ages."" The modern Islamists, Ahmad concludes, are ""concerned with power, not with the soul; with the mobilization of people for political purposes rather than with sharing and alleviating their sufferings and aspirations. Theirs is a very limited and time-bound political agenda."" What has made matters worse is that similar distortions and zealotry occur in the ""Jewish"" and ""Christian"" universes of discourse.
+
+
+It was Conrad, more powerfully than any of his readers at the end of the nineteenth century could have imagined, who understood that the distinctions between civilized London and ""the heart of darkness"" quickly collapsed in extreme situations, and that the heights of European civilization could instantaneously fall into the most barbarous practices without preparation or transition. And it was Conrad also, in The Secret Agent (1907), who described terrorism’s affinity for abstractions like ""pure science"" (and by extension for ""Islam"" or ""the West""), as well as the terrorist’s ultimate moral degradation.
+
+For there are closer ties between apparently warring civilizations than most of us would like to believe; both Freud and Nietzsche showed how the traffic across carefully maintained, even policed boundaries moves with often terrifying ease. But then such fluid ideas, full of ambiguity and skepticism about notions that we hold on to, scarcely furnish us with suitable, practical guidelines for situations such as the one we face now. Hence the altogether more reassuring battle orders (a crusade, good versus evil, freedom against fear, etc.) drawn out of Huntington’s alleged opposition between Islam and the West, from which official discourse drew its vocabulary in the first days after the September 11 attacks. There’s since been a noticeable de-escalation in that discourse, but to judge from the steady amount of hate speech and actions, plus reports of law enforcement efforts directed against Arabs, Muslims and Indians all over the country, the paradigm stays on.
+
+One further reason for its persistence is the increased presence of Muslims all over Europe and the United States. Think of the populations today of France, Italy, Germany, Spain, Britain, America, even Sweden, and you must concede that Islam is no longer on the fringes of the West but at its center. But what is so threatening about that presence? Buried in the collective culture are memories of the first great Arab-Islamic conquests, which began in the seventh century and which, as the celebrated Belgian historian Henri Pirenne wrote in his landmark book Mohammed and Charlemagne (1939), shattered once and for all the ancient unity of the Mediterranean, destroyed the Christian-Roman synthesis and gave rise to a new civilization dominated by northern powers (Germany and Carolingian France) whose mission, he seemed to be saying, is to resume defense of the ""West"" against its historical-cultural enemies. What Pirenne left out, alas, is that in the creation of this new line of defense the West drew on the humanism, science, philosophy, sociology and historiography of Islam, which had already interposed itself between Charlemagne’s world and classical antiquity. Islam is inside from the start, as even Dante, great enemy of Mohammed, had to concede when he placed the Prophet at the very heart of his Inferno.
+
+Then there is the persisting legacy of monotheism itself, the Abrahamic religions, as Louis Massignon aptly called them. Beginning with Judaism and Christianity, each is a successor haunted by what came before; for Muslims, Islam fulfills and ends the line of prophecy. There is still no decent history or demystification of the many-sided contest among these three followers–not one of them by any means a monolithic, unified camp–of the most jealous of all gods, even though the bloody modern convergence on Palestine furnishes a rich secular instance of what has been so tragically irreconcilable about them. Not surprisingly, then, Muslims and Christians speak readily of crusades and jihads, both of them eliding the Judaic presence with often sublime insouciance. Such an agenda, says Eqbal Ahmad, is ""very reassuring to the men and women who are stranded in the middle of the ford, between the deep waters of tradition and modernity.""
+
+But we are all swimming in those waters, Westerners and Muslims and others alike. And since the waters are part of the ocean of history, trying to plow or divide them with barriers is futile. These are tense times, but it is better to think in terms of powerful and powerless communities, the secular politics of reason and ignorance, and universal principles of justice and injustice, than to wander off in search of vast abstractions that may give momentary satisfaction but little self-knowledge or informed analysis. ""The Clash of Civilizations"" thesis is a gimmick like ""The War of the Worlds,"" better for reinforcing defensive self-pride than for critical understanding of the bewildering interdependence of our time."
+please summarise the key points
+"STERN REVIEW: The Economics of Climate Change, executive summary'. What is this about?"
+"simpler terms please:  This article examines two key microprocesses in socialisation theory: persuasion and social influence. It aims to understand the social conditions that might lead to cooperation within institutions.
+The article asserts that social interactions change actors involved, leading to a transformation in behaviour due to endogenous changes in norms and identities rather than just external constraints."
+"way to say ""the many (things)"""
+https://www.britannica.com/event/Great-Depression summarize
+"write me a detailed essay for this question including scholar citations. Should international organisations be closely controlled by their member states?
+the first paragraph should explain realist, liberal and constructivist definitions of IOs. the second paragraph will explain the dangers of IOs having too much freedom and independence, with a real example. the third section will explain the dangers of IOs being too controlled, with an example. the final section should argue that IOs need some level of control because of principal, agent theory and the reality that states are the main actors in international society, but IOs also need some freedom so they don't become puppets of states. and write a conclusion. use as many citations as possible"
+"correct grammar and language: Finally, the essay will provide the example of Uganda, showing that corruption can lead to unforeseen consequences of decentralisation."
+what are the authors key criteria for assessing the legitimaxt of global governance institutions
+How does constructivism contribute to our understanding of IOs?
+please summarise
+can you make it more comprehensive: The state under control of prime minister Ariel Henry lacked popular support and thus legitimacy There hasm’t been elections since 2017 and former president Moïse has been assasinated in 2021
+Briefly explain the concept of the technological view of the firm.
+How do we argue for maximizing profits instead of advocating for sustainable impact
+"can you put this into nicer wording and framing? 
+
+Ask everyone for their energy level
+
+Tests (MBTI, Communication styles):
+Communication-style-quiz
+
+Block 1
+Icebreaker(s):
+Crepe-tape challenge - 5 min 
+1 min to create a name tag
+As long as no one touches the band, the time doesn’t run (players don’t know this)
+No one can write their own name
+Pen game? - 15 min 
+
+Activity: 
+Write your main professional goal and your main personal goal in the very beginning, put it aside, and read it at the end and reflect  - 5 min
+Theory
+Address different “systems of knowing” - 5 min
+
+In practice: example of how a researcher will want to fact check everything before making any piece of information public, versus a journalist, who will prioritise putting information out there fast and in quantity.
+
+Block 2
+Activity
+Recognise that people prefer to receive information in different ways - 10 min
+
+Activity: Communicate the same piece of information differently in the presentation. For example, “I need you to have this report ready by Monday, we have a meeting at 9:30am where I’ll ask you to present it. Clara has some information you need for the report, so contact her. I need you to tell me asap whether you will need to project the report or print it for everyone in the meeting”.
+Then deliver it in the form of an email, a “call”, crossing someone in the hallway and saying it or pulling them aside, sitting them down, and communicating the information.
+Tell someone in the audience to “please do something in 10 minutes” and give someone else a paper with the same instructions
+
+
+BREAK - 15 min 
+
+Theory
+Feedback + Stop, start, continue - 5 min
+
+Block 3
+Activity
+Teamkran? ->to prove how important teamwork is - 15 min
+Theory
+MBTI/Communication style tests - 10 min
+Reflection:
+Allow people to communicate in the way they’re most comfortable - 10 
+Write on post-it notes & put them on a board
+Read them all out loud
+Allow those who want to elaborate in plenum"
+"qwhen to use t distribution and when to use z distribuotn, easy table overview"
+what are different monetary and fiscal policies?
+I want an exercise exactly like this one just with different numbers everywhere
+summarize the sources in respect to this subject guide here. order the sources and there arguments under topics if possible and give me there key arguments and findings and points. use the pin emoji to structure it
+give quick summary
+"formulate a one sentence problem statement form this: 
+
+
+Concept Note PBL Team 4
+
+
+
+
+
+1. Summary of the Proposed Project
+Social impact organizations often grapple with “wicked problems”––deeply complex challenges that are difficult to define and even harder to solve. These issues demand innovative thinking and strong collaboration skills. However, many social projects rely on volunteers or part-time staff who don’t receive formal training in problem-solving methods or team collaboration. Our project aims to address this gap by offering workshops and a readily accessible “toolbox” that helps volunteers develop two critical skills: (1) collaboration within diverse teams, and (2) creative, “outside-the-box” thinking.
+We envision a cost-effective/free, adaptable program that organizations can use to upskill volunteers, even with limited budgets and high turnover of workers. By equipping volunteers with foundational methods for tackling wicked problems, we aspire to boost the impact of social projects and create a lasting benefit for both volunteers and the communities they serve.
+
+2. Problem & Design Challenge
+Problem Statement
+In the social impact arena, volunteers and part-time staff frequently face intricate, interconnected challenges—so-called wicked problems. These volunteers often lack structured training in two especially relevant areas: team collaboration and creative problem-solving. Given tight budgets and rotating personnel, many organizations struggle to consistently offer high-quality skill-building opportunities.
+Design Challenge
+We aim to design a workshop series/single and an accompanying “toolbox” that anyone—regardless of experience level—can pick up and use to strengthen collaboration and creative thinking. The workshop would introduce hands-on exercises for tackling real-world problems in a team setting. The toolbox would serve as a guide that organizations can adapt over time and reuse with new cohorts of volunteers. Our hope is that, by improving these two skill areas, volunteers can more effectively address complex social challenges, not just in their current volunteer job but also in future occupations. We are especially aiming for young and inexperienced workers as there is the most space for improvement.
+
+
+
+3. Secondary Research & Insights
+Initially, we explored broad research on cross-sector collaboration, gamification, and workforce reskilling to identify which competencies are most critical in solving modern, multifaceted problems. As our focus narrowed, we investigated the concept of wicked problems, which scholars like Rittel & Webber (1973) define as issues without definitive solutions, often requiring iterative approaches and collaboration among diverse stakeholders. According to Brown et al. (2010) and Kawa et al. (2021), such problems are on the rise, influenced by globalization and the rapid pace of technological and societal change.
+Crucially, we found that many organizations struggle with harnessing diversity for innovation. Deloitte’s research (2016) and Bourke (2016) suggest that cognitively diverse teams are more innovative, yet they often lack practical frameworks to collaborate effectively. This gap is evident not only in large companies but also in smaller social ventures. Several reports (e.g., Woolley et al., 2010; van Knippenberg, 2013; Wang, 2019) highlight that productive collaboration requires deliberate training, mindset shifts, and clear facilitation methods.
+The LSX model (Brookings, 2024) was a very big inspiration. It emphasizes that solving wicked problems demands mental agility, openness to other viewpoints, and systematic approaches to gathering insights. We also spoke with individuals who support social impact initiatives, including practitioners experienced in training volunteers. They confirmed that there is a real need for programs that help inexperienced or rotating volunteers develop advanced problem-solving and collaboration skills.
+
+4. Primary Research
+To validate these findings, we conducted interviews with:
+Staff at a Cultural Center (CCB): They noted the growing complexity of their work and stressed that volunteers rarely receive structured problem-solving support. While they do run bi-annual training sessions, these focus more on operational tasks than on creative collaboration or adaptability.
+Social Impact Project Coordinators: Several coordinators observed that volunteers often become discouraged when faced with open-ended problems. They noted that short, immersive skill-building sessions could boost confidence and overall effectiveness.
+Experts in the LSX Approach: Conversations with contributors to the LSX model underscored the importance of team diversity and mental agility. They encouraged focusing on practical, scenario-based learning to help volunteers transfer lessons to real challenges.
+These interviews confirmed that many volunteers feel underprepared for the unpredictability of social impact work. They also clarified our design direction: a hands-on, replicable workshop and toolbox, tested and refined with actual social projects.
+
+5. Proposed Solution
+Workshops
+We plan to pilot an interactive session that introduces foundational collaboration techniques or creative thinking exercises. We are thinking about tools like role-playing, brainstorming games, and “instant feedback” checkpoints will help volunteers practice flexible thinking and deliberate teamwork. 
+Toolbox
+Alongside the workshops, we will develop a concise, user-friendly “toolbox.” This will include checklists, mini-guides, and simple exercises that organizations can deploy well after the formal workshop ends. The intent is for any project coordinator or new volunteer to open the toolbox and quickly adapt an activity or approach to a current challenge.
+
+6. References
+Bourke, J. (2016). Which Two Heads Are Better Than One? Australian Institute of Company Directors.
+Brown, V. A., Harris, J. A., & Russell, J. Y. (Eds.). (2010). Tackling Wicked Problems Through the Transdisciplinary Imagination. Earthscan.
+Deloitte Research. (2016). Diversity and inclusion research highlights.
+Kawa, N.C., Arceño, M.A., Goeckner, R. et al. (2021). Training wicked scientists for a world of wicked problems.Humanities & Social Sciences Communications, 8, 189.
+LSX Model. (2024). Sparking Creativity and Addressing Wicked Problems via the New LSX Model of Collaboration. Brookings.
+Rittel, H. W. J., & Webber, M. M. (1973). Dilemmas in a General Theory of Planning. Policy Sciences, 4(2), 155–169.
+van Knippenberg, D. (2013). Diversity mindsets and the performance of diverse teams. Organizational Behavior and Human Decision Processes, 121(2), 183.
+Wang, J. (2019). Team creativity/innovation in culturally diverse teams: A meta‐analysis. Journal of Organizational Behavior, 40(6), 693.
+Woolley, A. W., Chabris, C. F., Pentland, A., Hashmi, N., & Malone, T. W. (2010). Evidence for a collective intelligence factor in the performance of human groups. Science, 330(6004)."
+whats a downward shock?
+"1. Why did Unilever’s decentralised structure make sense from the 1950s through to the 1970s?
+2. Why did this structure start to create problems for the company during the 1980s?
+3. How can the same firm manage brands so different as Ben & Jerry's and Done?"
+When I have a matrix A what is the AT
+can you for chapter 6 just ake an overview of whatevery abbreviation stad for?
+"{""content_type"": ""image_asset_pointer"", ""asset_pointer"": ""file-service://file-1EpKUGD5KHr3eA9bDw96vX"", ""size_bytes"": 355724, ""width"": 1154, ""height"": 572, ""fovea"": null, ""metadata"": {""dalle"": null, ""gizmo"": null, ""generation"": null, ""container_pixel_height"": null, ""container_pixel_width"": null, ""emu_omit_glimpse_image"": null, ""emu_patches_override"": null, ""sanitized"": true, ""asset_pointer_link"": null}}
+solve the exercise on the picture"
+"{""content_type"": ""image_asset_pointer"", ""asset_pointer"": ""file-service://file-P4zKwJsm3PKMQSQVDDVZV9"", ""size_bytes"": 282094, ""width"": 1122, ""height"": 748, ""fovea"": null, ""metadata"": {""dalle"": null, ""gizmo"": null, ""generation"": null, ""container_pixel_height"": null, ""container_pixel_width"": null, ""emu_omit_glimpse_image"": null, ""emu_patches_override"": null, ""sanitized"": true, ""asset_pointer_link"": null}}
+help me with number 1"
+where would I put the demand equal to the costs and why?
+"Assessment 1: Group 3 Concept Note Dec 2024
+Summary of the proposed solution/project
+The proposed solution addresses the growing challenge of fostering intergenerational connections, through a collaborative documentary project. The project creates a meaningful platform for collaboration and connection, combining the elders' desire to share their stories, with creative efforts of youth. This approach would not only build cohesion but also address broader societal needs. The idea is to preserve Lisbon’s cultural history, by documenting the personal stories from past neighborhoods that had a present sense of community. It acknowledges the importance of both groups having the opportunity to give and receive through the connection, creating a stronger incentive to engage with the project. By producing something meaningful, they develop a sense of purpose and a deeper connection to their neighborhood. Furthermore, it empowers youth in low-income neighborhoods with practical and interpersonal skills. By sharing their lived experiences, elders contribute to fostering understanding while also feeling connected and heard – this reduces the common sentiment among many elders that their perspectives are overlooked by younger generations. This approach aligns with the research insights showing that shared activities and common goals enhance connection, and thus enhance well-being and decrease feelings of isolation for both groups. 
+The project is designed as a participatory initiative, where both groups contribute in shaping the project and its outcome. Ideally, it will result in a community event where the output is shared, with externals which could lead to a campaign raising awareness. The project draws inspiration from successful initiatives like GER-AÇÕES and Pedalar Sem Idade, incorporating lessons on community building through localised, collaborative efforts. By focusing on the connections that unite rather than divide generations, the project lays the groundwork for sustainable and meaningful intergenerational relationships.
+Problem & Design Challenge
+An individual’s feeling of purpose and connection is heavily affected by their interpersonal relations and sense of community. With a general trend of decreasing mental health among adolescents, and increasing loneliness and isolation amongst elders. Building connections across generations can increase a sense of community and well-being for participants - helping to decrease loneliness, a subjective feeling where one's social relationships are lacking in quality and/or quantity. Elders and adolescents are two of the groups with the least connection between  zeach other. However, we believe that both parts have something to contribute and gain from an intergenerational connection. Thus, our question; How might we help young and elderly people in Lisbon build a connection over a shared purpose, enhancing and continuing a sense of community?
+Research Findings
+Based on our initial assumptions, we believed the lack of community stemmed from loneliness. To explore this, we conducted secondary research on loneliness among the elderly and youth in Lisbon, using data from academic studies, reports, and organisational insights. However, this assumption evolved as research progressed. Our research examined statistical data, cultural nuances, and community initiatives. While it provided a broad overview, it was not Lisbon-specific and focused more on intergenerational connections between elders and children, rather than adolescents. 
+Loneliness among Lisbon's youth is a significant concern, with 20–30% of individuals aged 18–24 reporting feelings of isolation (EU, 2023). Factors contributing to this include overuse of technology, which fosters unrealistic comparisons and fear of missing out, urbanisation-driven displacement of families to the suburbs, and academic and employment pressures that exacerbate stress. When looking at loneliness among Lisbon' elders, it is linked to reduced family interaction due to smaller households and emigration of younger generations. Furthermore, issues include mobility barriers posed by Lisbon’s hilly streets, tourism-focused urbanisation, and cultural disconnection stemming from limited engagement with technology. Studies highlight that loneliness correlates with reduced quality of life (Karger, 2021).
+Existing initiatives addressing loneliness provide valuable insights. For example,  GER-AÇÕES fosters intergenerational solidarity through community labs, Pedalar Sem Idade connects elderly residents with youth through cycling activities, and Meo’s Partilha Casa promotes housing solutions that bridge generational gaps. These programs demonstrate the potential of intergenerational engagement to reduce loneliness and build community resilience (World Cities Culture Forum, n.d). Looking at GER-AÇÕES, an organisation that aims to address the same issue as our team. Notably overcoming the initial resistance to participation, which could teach us on how the people in Lisbon function on a cultural and social aspect. Bridging the generational gap is also a pertinent challenge which they face, seeing how such organisations navigate these challenges would serve as a source of inspiration for our project. 
+Recognising the inability of the secondary research to identify shared interest between elders and youth, we reconsidered our approach to primary research. We visited Pedro at Dona Ajuda, who introduced us to various initiatives. Volunteering at Dona Ajuda emerged as an essential social meeting space for many elderly individuals, providing structure and purpose that are often lost after retirement. During discussions, we explored ideas for fostering a sense of community by connecting youth and elderly through the NGO. Pedro expressed openness to collaboration, making Dona Ajuda a vital potential stakeholder for its deep ties to the community.
+We interviewed Ana Maria, a psychology professor at Forward College, who discussed the benefits of similar projects involving children and elders, which have successfully boosted self-esteem in both groups. However, bridging the gap between adolescents and elders is challenging, as adolescents often focus on themselves and struggle to see the value in what elders offer. Ana Maria suggested that finding common ground, where both groups can contribute meaningfully and give value, is key. She emphasised the importance of involving and empathising with all participants to create a meaningful impact in Lisbon’s community: “It’s not a project that’s made to look good; it’s a project to make the people involved feel good.”
+We met with Raquel from the Aga Khan Foundation, who has extensive experience in community-building projects, particularly in underserved neighborhoods. She mentioned the often-overlooked history of Lisbon’s slums, neighborhoods with strong sense of connection throughout the community, and how these communities were relocated to social housing, breaking up the community. This history is largely unknown to younger generations, contributing to a disconnect and lack of mutual understanding between youth and elders. Raquel also introduced us to Associação Per 11, located on the outskirts of Lisbon. Our visit to Per 11 in Santa Clara, managed by Mauro Wah, reinforced these insights as we saw how both youth and elders actively participated in communal projects. It exemplified the intergenerational engagement Raquel had mentioned—how such initiatives can thrive in small, close-knit communities. 
+Furthermore, we conducted interviews with four elderly individuals in Benfica, asking about loneliness in Lisbon and their interest in participating in our project. These interviews challenged our initial assumptions. For example, while we initially believed loneliness stemmed from a lack of connection between youth and the elderly, one interviewee shared that they saw loneliness as a lack of personal engagement. This feedback prompted us to rethink certain elements of our project to better align with the diverse experiences of the elderly. To gather more data on the elderly perspective, we reached out to the Senior University (UITI) and are awaiting a response.
+
+When we conducted primary research, we noticed differences compared to our secondary research. Unless explicitly asked, few of our stakeholders referred to loneliness as the main holdback of sense of community. Loneliness was instead a symptom of deeper rooted issues. Thus, our scope shifted towards investigating these problems we did not predict. Firstly, elders losing the social place of work means they have to make a continuous effort to socialise. This can result in loneliness, but does not necessarily guarantee it. Thus, the elderly are in need of opportunities gather. We also noticed a general shift away from closed-knit communities, with less intergenerational homes and the splitting up of Lisbon’s old slums. Considering these insights, our design challenge was reframed from focusing mainly on how to decrease loneliness, to moving towards “re”-building a sense of community.
+Both Ana Maria and Mauro spoke about the importance of finding a shared interest to unite elders and youth. Shared activities provide youth and elderly with purpose and a chance to learn from each other, where both groups gain and contribute. Ana Maria emphasised the psychological background for a mutually beneficial connection; both group’s needs must be met. Youth need to be in control of the process, keeping their independence intact, to be engaged. Another insight is that youth like to create, and elders like to share experiences - two different interests that can be well combined.
+Furthermore, localised approaches are essential, giving the unique dynamics of different communities. Community-centred issues in some neighborhoods are rooted in lack of opportunity for natural meeting places, while elderly-dense areas like Alfama, require solutions tailored to mobility and accessibility. Participatory engagements stand out as a central theme, from elders having to make the choice of being social, to co-designing approaches ensuring that solutions resonate with and are embraced by both target groups. 
+In conclusion, these insights prompted us to shift our focus toward the communal dimension. This perspective highlights the relevance of an intergenerational project, which serves as a means to blend the experience of older generations with the energy of younger ones. By fostering close collaboration with target groups and stakeholders with knowledge of the specific neighborhoods, the initiative can remain deeply rooted in the community, ensuring relevance and sustainability.
+Proposed solution
+Our proposed solution to bridge the intergenerational gap in Lisbon is a collaborative docuseries. This initiative will document the personal stories of elders from Lisbon’s slums, with youth acting as filmmakers and creative directors. As Raquel mentioned, the Aga Khan Foundation uses a similar approach, which not only brings people together but also preserves Lisbon’s cultural heritage. By capturing stories from neighborhoods where generations once lived side by side, we ensure that this rich history is kept alive. This approach responds to key needs identified in our research, such as elders' desire to share their history and youth's need for engaging, purposeful activities that grant them control and ownership. Intergenerational collaboration offers mutual benefits, including improved self-esteem, mental health, and a sense of purpose. Projects like those by Associação Moradores Per 11, which combine traditional crafts with modern design, demonstrate how creative efforts can bridge generational divides.
+Empowering youth to lead the production process ensures engagement while allowing them to learn about Lisbon's history from elders. In turn, elders gain a platform fostering their visibility. Sharing the history of Lisbon’s slums highlights an often-overlooked chapter, giving youth a deeper understanding of past communities’ resilience and acknowledging the elders' contributions. Involving both groups in co-designing the project, as suggested by Raquel, ensures meaningful participation and mutual buy-in. To confirm our assumptions and align the project with youth interests, we will conduct a survey to validate their needs and motivations. This initiative addresses three dimensions of change:
+Social Cohesion: The docuseries creates a shared community space for intergenerational interaction, helping reduce isolation and build relationships between youth and elders. Through collaboration, both groups strengthen community ties and combat loneliness.
+Cultural Preservation: Lisbon’s elderly hold valuable cultural knowledge at risk of being lost. Documenting their stories, particularly about the slums, social housing, and urbanisation, preserves this history digitally and makes it accessible to future generations, connecting them to their roots.
+Personal Empowerment: Both groups gain practical skills and a sense of accomplishment. Youth develop technological, organisational, and creative abilities, while elders gain confidence. This mutual exchange fosters an inclusive society where everyone feels valued.
+By addressing shared interests and aligning the project with the strengths and needs of each group, the docuseries creates a model for sustainable, intergenerational collaboration. It builds on lessons from successful initiatives like GER-AÇÕES, which uses libraries as hubs for community engagement, and Pedalar Sem Idade, which addresses elders’ isolation through mobility issues. Additionally, it innovatively combines historical storytelling with modern media production, offering a unique approach to narrative intergenerational community building.
+
+
+References:
+ISCET. (2019, June 6). Loneliness in Portugal, Porto: Specific analysis concerning loneliness in general. https://www.iscet.pt/uploads/obSolidao/loneliness_6junho.pdf
+European Commission. (2023, November 28). Health and wellbeing, Portugal: EU analysis and Portugal-specific policies. https://national-policies.eacea.ec.europa.eu/youthwiki/chapters/portugal/75-mental-health
+Ashley. (2023, February 22). Gener-Actions: Intergenerational solidarity. The Europe Challenge. https://theeuropechallenge.eu/connecting-generations-and-neighbourhoods/
+lbbonline. (n.d.). This Portuguese telecom solves student housing and loneliness in Lisbon older people crisis. Retrieved October 16, 2024, from https://lbbonline.com/news/this-portuguese-telecom-solves-student-housing-and-loneliness-in-older-people-crisis
+Censos21_grid_lisboa. (n.d.). Retrieved October 16, 2024, from https://amensagem.github.io/apoio_html/05.CENSOS21_GRID_Lisboa_Filter.html
+AMP. (n.d.). Por vidas mais vividas. Retrieved October 16, 2024, from https://maisproximidade.pt/
+Campos, A. (2024, May 19). Idosos sós: “Temos que arranjar amigos de outras gerações.” Público. https://www.publico.pt/2024/05/19/sociedade/noticia/idosos-sos-arranjar-amigos-geracoes-2090994
+Carvalho, R., Sousa, L., & Tavares, J. (2023). Instruments for assessing loneliness in older people in Portugal. https://doi.org/10.1159/000529147
+World Cities Culture Forum. (2024, May 2). How a citisen-led project reconnects Lisbon’s elderly with their communities. https://worldcitiescultureforum.com/city-project/neighbourhood-lives-and-memories/
+Garha, N. S., & Azevedo, A. B. (2021, March 16). Population and housing (mis)match in Lisbon, 1981–2018: A challenge for an ageing society. MDPI. https://www.mdpi.com/2076-0760/10/3/102
+Campos, A., & Santos, N. F. (2024, May 19). “Isto ficou um deserto.” Na Baixa de Lisboa há idosos isolados no meio da multidão. Público. https://www.publico.pt/2024/05/19/sociedade/reportagem/ficou-deserto-baixa-lisboa-ha-idosos-isolados-meio-multidao-2090972. can you create indicators to measure the impact of our project based on the concept note"
+"{""content_type"": ""image_asset_pointer"", ""asset_pointer"": ""file-service://file-6cduid1z6X59j9MGEZscEA"", ""size_bytes"": 206426, ""width"": 1536, ""height"": 1067, ""fovea"": null, ""metadata"": {""dalle"": null, ""gizmo"": null, ""generation"": null, ""container_pixel_height"": null, ""container_pixel_width"": null, ""emu_omit_glimpse_image"": null, ""emu_patches_override"": null, ""sanitized"": true, ""asset_pointer_link"": null}}
+We need to have a presentation in personal development, current topic is culture and belonging …… we want our presentation to be for immigrants 
+What could we talk about"
+pls summarize in order
+"differences between 'goals', 'output', 'outcome' and 'activity'?"
+"“War is not fought between man and man but between states” (Rousseau, 2011). A central aspect of the philosophy Rousseau presents in his works, a staunch critic of what society has brought man. The general will, according to Rousseau, describes what humans should be and act like, a rational collective agreement setting personal needs aside and advocating for the collective good (Falaky 2016). This concept refers to human cooperation in a way that could be seen as a framework for international cooperations due to the motivation to pursue the collective good. The concept of general will according to Rousseau can be seen as a theoretical framework for international relations and a promoter of peace among states rather than promoting inter state dependency causing conflict although this potentially clashes with what Rousseau advocated for in his works. 
+
+The general will is a concept that is at the core of Rousseau's philosophy, the concept advocates for the promotion of the collective good rather than pursuing personal agendas. Rousseau therefore suggests that preserving the general in the international community is the most effective way to ensure peace and prevent conflict (Blachet 2002). This idea is further supported by the work “perpetual peace” by Kant. Kant envisions in his work an assembly of united federal states that are governed by rational laws rather than power struggles. His work was produced with influence from Rousseau’s work in the context of 18th century Europe, showcasing the aspiration already seen at that time that one might argue has come to fruition in current times. The European Union represents this execution of Kant’s aspiration. This union is now governed by a central body and has overarching laws that take precedence over state laws. The union has preserved peace in the member states for the past decades, which used to be unheard of less than a century prior, as the region has historically been continuously taunted with conflict. Achieving this aspiration of pursuing the common good that the European Union represents, shows parallels with Rousseau’s general will. The source of the European Union is to be found in its need for cooperation in the form of open essential resource trading reducing dependency. 
+
+A central aspect that Rousseau also argues for is that dependency between all states is a source of conflict (Blanchet 2002), thus replacing this dependency with cooperation would remove factors that lead to conflict as seen in the EU. The reason for dependency causing conflict is that there will always be inegality between the weaker and stronger states which will inevitably lead to friction. This concept can be extrapolated to a stag hunt as described by (Waltz 1954), the stag hunt describes that with cooperation a stag could be caught but that if a hare runs by, one of them could take the hare for themselves and the rest will not get anything. This illustration refers to the pursuit of self interest or “amour-propre” referring to the inherent self-interest present in international relations. This interpretation by Waltz of Rousseau's work is contested as many other academics argue that this is an oversimplification of what was written. Rousseau was not pessimistic about international relations but that the current systems are not working and would not result in peace (Carmen 2018), implying that functioning institutions could result in fostering peace through better cooperation. This interpretation of Rousseau's work that advocates cooperation as a medicine for peace is contested by other scholars due to what Rousseau simultaneously advocates for in his work.
+
+During his life Rousseau has been involved in a few notable endeavors concerning the preservation of states and how they should act in the international realm, notably by writing the constitutions of Corsica and later Poland. In both constitutions Rousseau argues for autarchy (Kedouri 1960) as a means to guarantee peace. These countries would essentially be agrarian states that would be self-sufficient and also be unattractive enough for other states to invade. Completely eliminating the aspect of cooperation as a core aspect of a state's way of functioning. This is not the only contradicting aspect as his “social contract” and also argues that humans were better off before society and are now corrupted, clearly does not extend to the international realm (Falaky 2016). Monarchs were made to legislate and thus did not take into account the international realm with this aspect as their main interest would be to preserve their own states. A third point would be that Rousseau argues more in favour of something that resembles aggressive nationalism by forcing people to be free in his works which would be more in line with positive freedom (Talmon (1962))
+
+Taking into account the main principles Rousseau has laid out in his works it is difficult to say what his exact stance is on aspects of international relations. On one hand the general will cna be seen as a theoretical framework of international cooperation, and thus a solution to peace. This theory is then also supported by Kant’s work of perpetual peace and as example the European Union, but simultaneously he is a staunch critic. The criticism stems in what he says which is in contrast in what he does in regards to the constitution of corsica and notably Poland, which argues for no international cooperation and full autarchy, a basis for what one might consider nationalism. Rousseau’ work showcases the potential for intnerational cooperation as a means to achieve peace but at the same time it limitations have to be recognised and handled with realistically.   how good is this essay for first year LSE in IPT xlass"
+examples of stead state economics
+rousseau why commerce and trade negative
+"What is the biggest threat to Rousseau’s Social Contract from international politics
+– war or commerce and trade?"
+Horndal effect?
+can you verufy and finish exercises grupo II gramatica 1
+"Give me ENDLESS maths exercises covering probability and confident intervals , including the solution at the end of each ex"
+"here a prezi, and here the text for slide 12-21. pls make it more organized, like per slide and correct some words but do not change the contend: 
+
+
+Our initial assumptions about the problem we were tackelign where 
+That people let go of there outside of work interest, probably due to lack of time or because it does not seem to contribute. A lawyer would probably not continue reading philosophie even tough it was his hobby before he had a full time job.
+We taught that a lawyer rarely meets someone in marketing or an engineer which would lead to a lack of perspectives.
+Assumption is that white collar worker are over specialized, what we meant by that is that workers are very good in one specific task but miss a different perepecticve 
+Assumptions are not enough to build a whole project. So lets talk about our research: 
+We started with qualitative secondráry research which was for thies topics actually not a easy task. Thats why we then also did a interview with a expert of the field who is doing research around new work.  His point of view combined with our secondary research lead us to the following problems todays worker in lisbon could have:
+
+Next slide 
+
+From the described research we could proof that some of our assumptions were true and create the following problems: 
+
+-the neglection of outside of work interest and the lack of exposure to new ideas and perspectives, by talking about new topics for example, leads to less inspiration
+- a diversion between silos  limited communication disrupts the understanding of each other which leads to polarization and that harms democracy 
+- and the last bigger problem we found was that the first 2 just described problem can in the bigger picture, harm mental health. Risk of uninspired work can be emotional exhaustion and burn outs. 
+
+The first assumed problems are not related to any specific kind of work, considering our research we decided that we want to focus on white color workers, workes that work more with there had then hands. To see some real data to continue testing our problem, we conducted a survey in a office area in lisbon. 
+
+Next slide 
+
+In this survey, some of our assumption where proven, for example that a big majority is interested in meeting people with different beliefs and perspectives, but that nearly a quartered havent had such conversations in quit a while. 
+
+Other assumtions where not proven, even tough full time workers are bussy, they still have enough time to purse outside of work interests.
+
+The survey, further secondary research and  a lot of thinking let us to a turning point:
+
+We let the problems of  polarization and mental health for a team next year and decided to focus on the problem lack of inspiration or even more focused, the lack of cross silo communication."
+what is pareto optimality?
+"{""content_type"": ""image_asset_pointer"", ""asset_pointer"": ""file-service://file-8jRedxJCHVcg6a3PEmpoLR"", ""size_bytes"": 50224, ""width"": 1362, ""height"": 280, ""fovea"": null, ""metadata"": {""dalle"": null, ""gizmo"": null, ""generation"": null, ""container_pixel_height"": null, ""container_pixel_width"": null, ""emu_omit_glimpse_image"": null, ""emu_patches_override"": null, ""sanitized"": true, ""asset_pointer_link"": null}}
+which formula do i need to use to solve it, dont give he answer yet"
+"pls give me a summary of what that means: Rousseau's theory is in many ways a rejection of the Enlightenment, and especially its ideas about rationality and property. 
+
+Thus, as context, first read: 
+
+John Locke, Second Treatise on Government, Chapter V 'On Property' 
+
+Then Read: 
+
+
+ Part II of J.J.  Rousseau (also known as the second discourse)."
+"what is a population proportion 
+π?"
+what do I have to known about the Cobb Douglas?
+Why for Hobbes is there no global state or sovereign?
+"Country	Average Sleep (hours)	Democracy Index Score
+Netherlands	8.08	9.00
+New Zealand	8.07	9.61
+France	8.05	8.07
+Australia	8.02	8.66
+Belgium	8.02	7.64
+Canada	7.97	8.69
+United Kingdom	7.90	8.28
+United States	7.87	7.85
+Japan	7.50	8.40
+Singapore	7.40	6.18
+Portugal	6.98	7.75
+Spain	6.93	8.07
+Italy	6.90	7.69
+Greece	6.90	8.14
+China	6.72	3.24
+India	6.58	7.18
+Brazil	6.67	6.68
+Russia	6.75	3.24
+
+make a graph"
+"make a picture of this forward state for Hannah: Elections held every 5 years, mandatory voting.
+Ruling party has a majority in parliament
+Ruling party has not lost in the last 45 Years 
+Multiple parties in parliament
+Strong social programs: universal healthcare and education.
+Heavy restrictions on abortion, LGBTQ and freedom of religion
+Freedom of expression
+Election ballots are in schools and churches
+There is no mail voting"
+what is FC?
+"please bring in in order: Questions for Quantitative research: Interviews 
+Sketch and without order: 
+
+
+-How happy are you at work?
+-How many hours do you work?
+-Do you enjoy your work?
+-How specialised are you in your job?
+-How often do you engage in outside of work interests? How do you think this is helping you? In your work and outside of work
+-What inspires you?
+-Do you need creativity in your job?
+-Do you think there are strong silos in the company you are working in?
+-Are these silos harming? Less efficient?
+-How high is the focus on efficiency in your work?"
+Nash equilibrium at q1=q2?
+"in statistics, whats the symbol for the mean?"
+What is elasticity?
+"can you do the following for the netherlands:  want for each of the group members to present a country's political parties. You can choose your own country or select one country you find interesting (but stick to democratic countries please). And please do not repeat countries. I want you to focus on at least 3 of the biggest parties (if they exist) and I want to try and figure out for each party, how would you classify it: a mass party, a catch-all party or a cartel-party. Look at the following list of factors to include in your classification:
+
+The number of registered members.
+The process to choose their leader and who can participate in this process.
+The way party leaders connect to everyday voters.
+The main source of funding for each party.
+Then, once you meet your leaning cell group present your findings to your colleagues by not only presenting the classification but also by justifying it using those factors above. In the end, also discuss the differences between different countries. How can we explain them?"
+definition of MPS in context of math for economics
+best ai tools for studying?
+"Summarize the following texts in bullet points. Do not include any information that is not in the original text. I need a detailed summary. THE NEXT PATTERN OF CONFLICT
+WORLD POLITICS is entering a new phase, and intellectuals have
+not hesitated to proliferate visions of what it will be—the end of history, the return of traditional rivalries between nation states, and the
+decline of the nation state from the conflicting pulls of tribalism and
+globalism, among others. Each of these visions catches aspects of the
+emerging reality. Yet they all miss a crucial, indeed a central, aspect
+of what global politics is likely to be in the coming years.
+It is my hypothesis that the fundamental source of conflict in this
+new world will not be primarily ideological or primarily economic.
+The great divisions among humankind and the dominating source of
+conflict will be cultural. Nation states will remain the most powerful
+actors in world affairs, but the principal conflicts of global politics will
+occur between nations and groups of different civilizations. The clash
+of civilizations will dominate global politics. The fault lines between
+civilizations will be the battle lines of the future.
+Conflict between civilizations will be the latest phase in the evolution of conflict in the modern world. For a century and a half after
+the emergence of the modern international system with the Peace of
+Westphalia, the conflicts of the Western world were largely among
+SAMUEL P. HUNTINGTON is the Eaton Professor of the Science of
+Government and Director of the John M. Olin Institute for Strategic
+Studies at Harvard University. This article is the product of the Olin
+Institute's project on ""The Changing Security Environment and
+American National Interests.""
+[22]
+The Clash of Civilizations?
+princes—emperors, absolute monarchs and constitutional monarchs
+attempting to expand their bureaucracies, their armies, their mercantilist economic strength and, most important, the territory they
+ruled. In the process they created nation states, and beginning with
+the French Revolution the principal lines of conflict were between
+nations rather than princes. In 1793, as R. R. Palmer put it, ""The wars
+of kings were over; the wars of peoples had begun."" This nineteenthcentury pattern lasted until the end of World War I. Then, as a result
+of the Russian Revolution and the reaction against it, the conflict of
+nations yielded to the conflict of ideologies, first among communism,
+fascism-Nazism and liberal democracy, and then between communism and liberal democracy. During the Cold War, this latter conflict
+became embodied in the struggle between the two superpowers, neither of which was a nation state in the classical European sense and
+each of which defined its identity in terms of its ideology.
+These conflicts between princes, nation states and ideologies were
+primarily conflicts within Western civilization, ""Western civil wars,""
+as William Lind has labeled them. This was as true of the Cold War
+as it was of the world wars and the earlier wars of the seventeenth,
+eighteenth and nineteenth centuries. With the end of the Cold War,
+international politics moves out of its Western phase, and its centerpiece becomes the interaction between the West and non-Western
+civilizations and among non-Western civilizations. In the politics of
+civilizations, the peoples and governments of non-Western civilizations no longer remain the objects of history as targets of Western
+colonialism but join the West as movers and shapers of history.
+THE NATURE OF CIVILIZATIONS
+DURING THE COLD WAR the world was divided into the First,
+Second and Third Worlds. Those divisions are no longer relevant. It
+is far more meaningful now to group countries not in terms of their
+political or economic systems or in terms of their level of economic
+development but rather in terms of their culture and civilization.
+What do we mean when we talk of a civilization? A civilization is
+a cultural entity. Villages, regions, ethnic groups, nationalities, reliFOREIGN AFFAIRS > Summer i993
+Samuel P. Huntington
+gious groups, all have distinct cultures at different levels of cultural
+heterogeneity. The culture of a village in southern Italy may be different from that of a village in northern Italy, but both will share in a
+common Italian culture that distinguishes them from German villages. European communities, in turn, will share cultural features that
+distinguish them from Arab or Chinese communities. Arabs,
+Chinese and Westerners, however, are not part of any broader cultural entity. They constitute civilizations. A civilization is thus the
+highest cultural grouping of people and the broadest level of cultural
+identity people have short of that which distinguishes humans from
+other species. It is defined both by common objective elements, such
+as language, history, religion, customs, institutions, and by the subjective self-identification of people. People have levels of identity: a
+resident of Rome may define himself with varying degrees of intensity as a Roman, an Italian, a Catholic, a Christian, a European, a
+Westerner. The civilization to which he belongs is the broadest level
+of identification with which he intensely identifies. People can and
+do redefine their identities and, as a result, the composition and
+boundaries of civilizations change.
+Civilizations may involve a large number of people, as with China
+(""a civilization pretending to be a state,"" as Lucian Pye put it), or a
+very small number of people, such as the Anglophone Caribbean. A
+civilization may include several nation states, as is the case with
+Western, Latin American and Arab civilizations, or only one, as is the
+case with Japanese civilization. Civilizations obviously blend and
+overlap, and may include subcivilizations. Western civilization has
+two major variants, European and North American, and Islam has its
+Arab, Turkic and Malay subdivisions. Civilizations are nonetheless
+meaningful entities, and while the lines between them are seldom
+sharp, they are real. Civilizations are dynamic; they rise and fall; they
+divide and merge. And, as any student of history knows, civilizations
+disappear and are buried in the sands of time.
+Westerners tend to think of nation states as the principal actors in
+global affairs. They have been that, however, for only a few centuries.
+The broader reaches of human history have been the history of civi-
+[24] FOREIGN AFFAIRS • Volume 72^0.3
+The Clash of Civilizations?
+lizations. In A Study of History, Arnold Toynbee identified 21 major
+civilizations; only six of them exist in the contemporary world.
+WHY CIVILIZATIONS WILL CLASH
+CIVILIZATION IDENTITY will be increasingly important in the
+future, and the world will be shaped in large measure by the interactions among seven or eight major civilizations. These include
+Western, Confucian, Japanese, Islamic, Hindu, Slavic-Orthodox,
+Latin American and possibly African civilization. The most important conflicts of the future will occur along the cultural fault lines separating these civilizations from one another.
+Why will this be the case?
+First, differences among civilizations are not only real; they are
+basic. Civilizations are differentiated from each other by history, language, culture, tradition and, most important,
+religion. The people of different civilizations nThe conflicts of the
+have different views on the relations between
+God and man, the individual and the group, the future will OCCUr along
+citizen and the state, parents and children, hus- ^he cultural fault lines
+band and wife, as well as differing views of the . . M.
+relative importance of rights and responsibili- Separating Civilizations.
+ties, liberty and authority, equality and hierarchy. These differences are the product of centuries. They will not
+soon disappear. They are far more fundamental than differences
+among political ideologies and political regimes. Differences do not
+necessarily mean conflict, and conflict does not necessarily mean violence. Over the centuries, however, differences among civilizations
+have generated the most prolonged and the most violent conflicts.
+Second, the world is becoming a smaller place. The interactions
+between peoples of different civilizations are increasing; these
+increasing interactions intensify civilization consciousness and
+awareness of differences between civilizations and commonalities
+within civilizations. North African immigration to France generates
+hostility among Frenchmen and at the same time increased receptivity to immigration by ""good"" European Catholic Poles. Americans
+FOREIGN AFFAIRS • Summer 1993 [25]
+Samuel P. Huntington
+react far more negatively to Japanese investment than to larger investments from Canada and European countries. Similarly, as Donald
+Horowitz has pointed out, ""An Ibo may be ... an Owerri Ibo or an
+Onitsha Ibo in what was the Eastern region of Nigeria. In Lagos, he
+is simply an Ibo. In London, he is a Nigerian. In New York, he is an
+African."" The interactions among peoples of different civilizations
+enhance the civilization-consciousness of people that, in turn, invigorates differences and animosities stretching or thought to stretch
+back deep into history.
+Third, the processes of economic modernization and social change
+throughout the world are separating people from longstanding local
+identities. They also weaken the nation state as a source of identity.
+In much of the world religion has moved in to fill this gap, often in
+the form of movements that are labeled ""fundamentalist."" Such
+movements are found in Western Christianity, Judaism, Buddhism
+and Hinduism, as well as in Islam. In most countries and most religions the people active in fundamentalist movements are young, college-educated, middle-class technicians, professionals and business
+persons. The ""unsecularization of the world,"" George Weigel has
+remarked, ""is one of the dominant social facts of life in the late twentieth century."" The revival of religion, ""la revanche de Dieu,"" as Gilles
+Kepel labeled it, provides a basis for identity and commitment that
+transcends national boundaries and unites civilizations.
+Fourth, the growth of civilization-consciousness is enhanced by
+the dual role of the West. On the one hand, the West is at a peak of
+power. At the same time, however, and perhaps as a result, a return
+to the roots phenomenon is occurring among non-Western civilizations. Increasingly one hears references to trends toward a turning
+inward and ""Asianization"" in Japan, the end of the Nehru legacy and
+the ""Hinduization"" of India, the failure of Western ideas of socialism
+and nationalism and hence ""re-Islamization"" of the Middle East, and
+now a debate over Westernization versus Russianization in Boris
+Yeltsins country. A West at the peak of its power confronts nonWests that increasingly have the desire, the will and the resources to
+shape the world in non-Western ways.
+In the past, the elites of non-Western societies were usually the
+[26] FOREIGN AFFAIRS • Volume72 No.j
+The Clash of Civilizations?
+people who were most involved with the West, had been educated at
+Oxford, the Sorbonne or Sandhurst, and had absorbed Western attitudes and values. At the same time, the populace in non-Western
+countries often remained deeply imbued with the indigenous culture.
+Now, however, these relationships are being reversed. A deWesternization and indigenization of elites is occurring in many nonWestern countries at the same time that Western, usually American,
+cultures, styles and habits become more popular among the mass of
+the people.
+Fifth, cultural characteristics and differences are less mutable and
+hence less easily compromised and resolved than political and economic ones. In the former Soviet Union, communists can become
+democrats, the rich can become poor and the poor rich, but Russians
+cannot become Estonians and Azeris cannot become Armenians. In
+class and ideological conflicts, the key question was ""Which side are
+you on?"" and people could and did choose sides and change sides. In
+conflicts between civilizations, the question is ""What are you?"" That
+is a given that cannot be changed. And as we know, from Bosnia to
+the Caucasus to the Sudan, the wrong answer to that question can
+mean a bullet in the head. Even more than ethnicity, religion discriminates sharply and exclusively among people. A person can be
+half-French and half-Arab and simultaneously even a citizen of two
+countries. It is more difficult to be half-Catholic and half-Muslim.
+Finally, economic regionalism is increasing. The proportions of
+total trade that were intraregional rose between 1980 and 1989 from
+51 percent to 59 percent in Europe, 33 percent to 37 percent in East
+Asia, and 32 percent to 36 percent in North America. The importance
+of regional economic blocs is likely to continue to increase in the
+future. On the one hand, successful economic regionalism will reinforce civilization-consciousness. On the other hand, economic
+regionalism may succeed only when it is rooted in a common civilization. The European Community rests on the shared foundation
+of European culture and Western Christianity. The success of the
+North American Free Trade Area depends on the convergence now
+underway of Mexican, Canadian and American cultures. Japan, in
+contrast, faces difficulties in creating a comparable economic entity
+FOREIGN AFFAIRS - Summer 1993 [27]
+Samuel P. Huntington
+in East Asia because Japan is a society and civilization unique to itself.
+However strong the trade and investment links Japan may develop
+with other East Asian countries, its cultural differences with those
+countries inhibit and perhaps preclude its promoting regional economic integration like that in Europe and North America.
+Common culture, in contrast, is clearly facilitating the rapid
+expansion of the economic relations between the People s Republic of
+China and Hong Kong, Taiwan, Singapore and the overseas Chinese
+communities in other Asian countries. With the Cold War over, cultural commonalities increasingly overcome ideological differences,
+and mainland China and Taiwan move closer together. If cultural
+commonality is a prerequisite for economic integration, the principal
+East Asian economic bloc of the future is likely to be centered on
+China. This bloc is, in fact, already coming into existence. As Murray
+Weidenbaum has observed,
+Despite the current Japanese dominance of the region, the Chinese-based
+economy of Asia is rapidly emerging as a new epicenter for industry, commerce and finance. This strategic area contains substantial amounts of technology and manufacturing capability (Taiwan), outstanding entrepreneurial,
+marketing and services acumen (Hong Kong), a fine communications network (Singapore), a tremendous pool of financial capital (all three), and very
+large endowments of land, resources and labor (mainland China).... From
+Guangzhou to Singapore, from Kuala Lumpur to Manila, this influential network1—often based on extensions of the traditional clans—has been described
+as the backbone of the East Asian economy.1
+Culture and religion also form the basis of the Economic
+Cooperation Organization, which brings together ten non-Arab
+Muslim countries: Iran, Pakistan, Turkey, Azerbaijan, Kazakhstan,
+Kyrgyzstan, Turkmenistan, Tadjikistan, Uzbekistan and Afghanistan. One impetus to the revival and expansion of this organization,
+founded originally in the 19608 by Turkey, Pakistan and Iran, is the
+realization by the leaders of several of these countries that they had
+no chance of admission to the European Community. Similarly,
+Caricom, the Central American Common Market and Mercosur rest
+hurray Weidenbaum, Greater China: The Next Economic Superpower?, St. Louis:
+Washington University Center for the Study of American Business, Contemporary
+Issues, Series 57, February 1993, pp. 2-3.
+[28] FOREIGN AFFAIRS • Volume 72 ^0.3
+The Clash of Civilizations?
+on common cultural foundations. Efforts to build a broader
+Caribbean-Central American economic entity bridging the AngloLatin divide, however, have to date failed.
+As people define their identity in ethnic and religious terms, they
+are likely to see an ""us"" versus ""them"" relation existing between themselves and people of different ethnicity or religion. The end of ideologically defined states in Eastern Europe and the former Soviet
+Union permits traditional ethnic identities and animosities to come
+to the fore. Differences in culture and religion create differences over
+policy issues, ranging from human rights to immigration to trade and
+commerce to the environment. Geographical propinquity gives rise
+to conflicting territorial claims from Bosnia to Mindanao. Most
+important, the efforts of the West to promote its values of democracy and liberalism as universal values, to maintain its military predominance and to advance its economic interests engender
+countering responses from other civilizations. Decreasingly able to
+mobilize support and form coalitions on the basis of ideology, governments and groups will increasingly attempt to mobilize support by
+appealing to common religion and civilization identity.
+The clash of civilizations thus occurs at two levels. At the microlevel, adjacent groups along the fault lines between civilizations
+struggle, often violently, over the control of territory and each other.
+At the macro-level, states from different civilizations compete for relative military and economic power, struggle over the control of international institutions and third parties, and competitively promote
+their particular political and religious values."
+what is kanban agile development?
+"Summarize these articles for me: Putnam, R. ‘Diplomacy and domestic politics: the logic of the two-level game’, International Organization 42(3) 1988, pp.427–60.
+
+Fallon, T., & Smith, N. R. (2022). The two-level game of China's Public Diplomacy efforts. In China's International Communication and Relationship Building (pp. 63-78). Routledge.
+
+  Brown R.J., 2024, ‘Escape Blame or Make Friends? China’s Pandemic Dilemma and the Tension Between International Friendships and Blame-avoidance’. In Matthew Flinders, and others (eds), The Politics and Governance of Blame (Oxford: 2024)"
+What role should data analysis play in the study of comparative politics?
+1. Conjuguez les verbes au passé composé: (regarder) J’. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . un film hier soir.
+"{""content_type"": ""image_asset_pointer"", ""asset_pointer"": ""file-service://file-FWkuQGje1cCtHgynHpWQeH"", ""size_bytes"": 4511313, ""width"": 2048, ""height"": 1280, ""fovea"": null, ""metadata"": {""dalle"": null, ""gizmo"": null, ""generation"": null, ""container_pixel_height"": null, ""container_pixel_width"": null, ""emu_omit_glimpse_image"": null, ""emu_patches_override"": null, ""sanitized"": true, ""asset_pointer_link"": null}}
+please put yourself into the role of an excellent app designer and design for a group of students a background image for our app with a simple skinny path as shown above, without any icons."
+What is Said's main critiques of Marx?
+"Drawing on Vico’s idea that humans create their own history, the author extends this principle to geography, arguing that regions like the Orient and Occident are human-made concepts rather than inherent realities --> give me a citation please"
+"Please put yourself in the role of an LSE professor in Politics and International Relations teaching the subject 'International Political Theory' and summarise easily to your student, without repeating yourself, this academic text: (if the file is unreadable, the citation is Slomp, G. (1994). Hobbes and the Equality of Women. Political Studies, 42(3), 441-452"
+"Please put yourself in the role of an LSE professor in Politics and International Relations teaching the subject 'Foreign Policy Analysis' and summarise easily to your student, without repeating yourself, this academic text: Bronfenbrenner's seminal articulation of the distorted mirror situation https://www.acsu.buffalo.edu/~fczagare/PSC%20504/Bronfenbrenner.pdf"
+summarize in bullet points
+what does this mean: steep learning curve and technical demands
+"{""content_type"": ""image_asset_pointer"", ""asset_pointer"": ""file-service://file-0mMfZ4eUPRQYLFZrBuGJ5d93"", ""size_bytes"": 22325, ""width"": 1734, ""height"": 110, ""fovea"": null, ""metadata"": {""dalle"": null, ""gizmo"": null, ""generation"": null, ""container_pixel_height"": null, ""container_pixel_width"": null, ""emu_omit_glimpse_image"": null, ""emu_patches_override"": null, ""sanitized"": true, ""asset_pointer_link"": null}}
+can you help me evaluate which studies to include in my systematic literature review: 
+In individuals who have quit using cocaine, how does long-term cocaine use desensitize the brain's reward system, reducing sensitivity to natural rewards, compared to non-users?"
+Please summarize the following document in bullet points. Do not add any information that is not in the original text. be detailed
+"act as my professor in foreign policy analysis, summarize these three articles for me, give me the overarching thesis/argument and the research questions as well as the main supporting arguments and concepts that are being used, if there are any significant examples als´0 include them, give me important citations and references as well as quotes that are being used, the overall topics is economic statecraft and their effectiveness in foreign policy making"
+"act as my professor in foreign policy analysis and summarize this text in bulletpoints, give me the overarhcing thesis of this article as well as the main supportin arguments and concepts that are being introduced, give me the most important citiatons and quotes, focus particularly on the theories taht are being introduced here"
+give me key points of box 3.1
+"Please give me a good overview of all the boxes of Ch.5-Ch.7. Include graphs of the next if it is needed. Further, explain the Diamond-Dybvig Model, the Cash-in-Advance Model, the Friedman Rule, the Fisher equation and the Taylor rule. Also use the information of the book Williamson. Make it easily understandable, but only focus on the key arguments. Include graphs and equations. Make your answer as long as it needs to be."
+"for my class, summarize these two readings on federalism, be percise about the overall thesis, the supporting arguments and concepts, give me a good overview of the examples used in the texts"
+"act as my professor in international political theory, summarize the first two chapters of on violence by hannah arendt, give me the overarching thesis, the most important supporting arugments and concepts that are being introduced, give me the most significant quotes that I can reuse in an essay and particularly point out if her writing can be used to critique Frantz Fanon's writing on violence, and how she criticizes the misuse of fanon in the american civil rights movement, if there is a specific mention of Fanon, point that out too, tell me at the end how I can use this in an essay"
+please give me a summary of what happened between the year 1935 and 1980 in Chinese politics. provide me with the key historical events. keep it concise and use bullet points.
+"""price-taking firm faces a notional perfectly-elastic demand curve"" what does the ""notional"" refer to?"
