@@ -320,7 +320,7 @@ with open("test_results_{}_{}.csv".format(model_name,trial),"w",encoding='utf-8'
 ## Evaluate performance on the test set
 
 #NOTE: Since the sklearn functions for precision, recall and f1 did not work properly, I wrote a short script in utils.py that calculates them from scratch
-results = f1_calculator([int(label) for label in test_labels],[int(pred) for pred in predictions
+results = f1_calculator([int(label) for label in test_labels],[int(pred) for pred in predictions])
 
 # Save evaluation performance 
 with open("test_results_{}_{}.txt".format(model_name,trial),"a+",encoding='utf-8',errors='ignore') as f:
