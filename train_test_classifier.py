@@ -65,11 +65,11 @@ tokenizer = RobertaTokenizerFast.from_pretrained(model_name,do_lower_case=True)
 # NOTE: the code below assumes two primary annotators, with a tie-breaker third
 # NOTE: there are very few "Other (write comment)" labels. Not enough to train a good classifier for it. I'm excluding it from training.
 # There is no perfect solution to the problem above, but you can ask me about alternative approaches (e.g., weighting, oversampling and synthetic data).
-num_labels = len(title_label) - 1 # number of labels excluding "Other (write comment)"
 
 ## Mapping between the labels and their titles
 title_label = {"Not Offloading":0, "Light Offloading":1, "Heavy Offloading":2, "Other (write comment)":3}
 label_title = {0:"Not Offloading", 1:"Light Offloading", 2:"Heavy Offloading", 3:"Other (write comment)"}
+num_labels = len(title_label) - 1 # number of labels excluding "Other (write comment)"
 
 ## load the rated texts and their labels from disk, adjudicating based on the third rater in cases of disagreement
 texts = {} 
